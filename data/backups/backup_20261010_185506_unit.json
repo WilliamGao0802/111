@@ -1,0 +1,4246 @@
+{
+ "__meta__": {
+  "version": 1,
+  "exported_at": "2026-10-10 18:55:06"
+ },
+ "users": [
+  {
+   "id": 1,
+   "username": "admin",
+   "password_hash": "ab01e8586dc2fd5f15257049c01f32c39a948c3f81b24ab10d99df4653db3cc7",
+   "salt": "37baa9b28f81a9197daff30257a003b1",
+   "nickname": "平台管理员",
+   "avatar": "🛡️",
+   "bio": "BGL 学习平台运营",
+   "email": "admin@bgl.ai",
+   "phone": "13800000000",
+   "role": "admin",
+   "real_name": "",
+   "id_card": "",
+   "realname_status": "approved",
+   "phone_verified": 1,
+   "email_verified": 1,
+   "points": 9999,
+   "level": 10,
+   "status": "active",
+   "instructor_status": "none",
+   "instructor_intro": "",
+   "instructor_field": "",
+   "instructor_proof": "",
+   "instructor_level": 1,
+   "online": 1,
+   "fail_count": 0,
+   "locked_until": "",
+   "created_at": "2026-10-10 18:55:06",
+   "last_active_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "username": "fangyuan",
+   "password_hash": "55a40b851953723711c8c8b1575c39db9f402a20ca82911e01db9a55d9717491",
+   "salt": "7162de35c4920b882a51380d1556deec",
+   "nickname": "方圆",
+   "avatar": "🧑‍💻",
+   "bio": "用 AI 做点有用的东西",
+   "email": "",
+   "phone": "",
+   "role": "user",
+   "real_name": "",
+   "id_card": "",
+   "realname_status": "none",
+   "phone_verified": 0,
+   "email_verified": 0,
+   "points": 964,
+   "level": 10,
+   "status": "active",
+   "instructor_status": "none",
+   "instructor_intro": "",
+   "instructor_field": "",
+   "instructor_proof": "",
+   "instructor_level": 1,
+   "online": 1,
+   "fail_count": 0,
+   "locked_until": "",
+   "created_at": "2026-10-10 18:55:06",
+   "last_active_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "username": "liyuan",
+   "password_hash": "201f77361f62ae80753fd1dcdda23c9e10bd15cfa70946cbff95ffc2a47d3a59",
+   "salt": "021362e28028f5bbb7e56f189a4323ac",
+   "nickname": "李明远",
+   "avatar": "👨‍🏫",
+   "bio": "大模型方向讲师，前一线大厂算法工程师",
+   "email": "",
+   "phone": "",
+   "role": "instructor",
+   "real_name": "",
+   "id_card": "",
+   "realname_status": "approved",
+   "phone_verified": 0,
+   "email_verified": 0,
+   "points": 1602,
+   "level": 10,
+   "status": "active",
+   "instructor_status": "approved",
+   "instructor_intro": "十年一线算法经验，主讲大模型原理与微调实战，累计学员 5000+。",
+   "instructor_field": "大模型基础 / 微调实战",
+   "instructor_proof": "",
+   "instructor_level": 4,
+   "online": 1,
+   "fail_count": 0,
+   "locked_until": "",
+   "created_at": "2026-10-10 18:55:06",
+   "last_active_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "username": "wangxue",
+   "password_hash": "922e0fbf8493332f0f20ce7079d750efce5a330f70dd8baf454e5eb59261f539",
+   "salt": "f6e5d6154ee2ce51fd3781ed30005893",
+   "nickname": "王雪",
+   "avatar": "👩‍🏫",
+   "bio": "提示词工程与 AI 产品设计",
+   "email": "",
+   "phone": "",
+   "role": "instructor",
+   "real_name": "",
+   "id_card": "",
+   "realname_status": "approved",
+   "phone_verified": 0,
+   "email_verified": 0,
+   "points": 1250,
+   "level": 10,
+   "status": "active",
+   "instructor_status": "approved",
+   "instructor_intro": "AI 产品与提示词工程专家，服务过多家企业的 AI 落地项目。",
+   "instructor_field": "提示词工程 / AI 应用开发",
+   "instructor_proof": "",
+   "instructor_level": 3,
+   "online": 1,
+   "fail_count": 0,
+   "locked_until": "",
+   "created_at": "2026-10-10 18:55:06",
+   "last_active_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "username": "xiaoai",
+   "password_hash": "678939a4db2e01d8d54b7d77a7558f5059f07de227afa20b6055badff45690a4",
+   "salt": "f6a4eeb02d2e8c8268932a9a2c232eaa",
+   "nickname": "小艾",
+   "avatar": "🐣",
+   "bio": "AI 学习第 30 天，每天进步一点点",
+   "email": "",
+   "phone": "",
+   "role": "user",
+   "real_name": "",
+   "id_card": "",
+   "realname_status": "none",
+   "phone_verified": 0,
+   "email_verified": 0,
+   "points": 351,
+   "level": 4,
+   "status": "active",
+   "instructor_status": "none",
+   "instructor_intro": "",
+   "instructor_field": "",
+   "instructor_proof": "",
+   "instructor_level": 1,
+   "online": 1,
+   "fail_count": 0,
+   "locked_until": "",
+   "created_at": "2026-10-10 18:55:06",
+   "last_active_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "username": "azhe",
+   "password_hash": "84fc46bab38ff68c8473cd90f5671367074e13080ae268a8d7433135dd3d1885",
+   "salt": "19217bb9b5c1fe325a78a4c7b67ce127",
+   "nickname": "阿哲",
+   "avatar": "🦉",
+   "bio": "正在从后端转向 AI 应用开发",
+   "email": "",
+   "phone": "",
+   "role": "user",
+   "real_name": "",
+   "id_card": "",
+   "realname_status": "none",
+   "phone_verified": 0,
+   "email_verified": 0,
+   "points": 686,
+   "level": 7,
+   "status": "active",
+   "instructor_status": "none",
+   "instructor_intro": "",
+   "instructor_field": "",
+   "instructor_proof": "",
+   "instructor_level": 1,
+   "online": 1,
+   "fail_count": 0,
+   "locked_until": "",
+   "created_at": "2026-10-10 18:55:06",
+   "last_active_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "username": "chenmo",
+   "password_hash": "f89f146bdcf7fda25093848a7aa174ab9794ffbfa5e365c05e64d7252b08ed45",
+   "salt": "927df5b25db2e4fd8147f5275344ea34",
+   "nickname": "陈默",
+   "avatar": "🐼",
+   "bio": "数据科学在读，关注微调与评估",
+   "email": "",
+   "phone": "",
+   "role": "user",
+   "real_name": "",
+   "id_card": "",
+   "realname_status": "none",
+   "phone_verified": 0,
+   "email_verified": 0,
+   "points": 461,
+   "level": 5,
+   "status": "active",
+   "instructor_status": "none",
+   "instructor_intro": "",
+   "instructor_field": "",
+   "instructor_proof": "",
+   "instructor_level": 1,
+   "online": 1,
+   "fail_count": 0,
+   "locked_until": "",
+   "created_at": "2026-10-10 18:55:06",
+   "last_active_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "follows": [
+  {
+   "follower_id": 2,
+   "followee_id": 3,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "follower_id": 2,
+   "followee_id": 4,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "follower_id": 5,
+   "followee_id": 3,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "follower_id": 6,
+   "followee_id": 3,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "follower_id": 7,
+   "followee_id": 4,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "follower_id": 3,
+   "followee_id": 2,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "follower_id": 4,
+   "followee_id": 2,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "follower_id": 5,
+   "followee_id": 2,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "verifications": [],
+ "points_log": [
+  {
+   "id": 1,
+   "user_id": 1,
+   "delta": 10,
+   "reason": "注册奖励",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "user_id": 2,
+   "delta": 10,
+   "reason": "注册奖励",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "user_id": 3,
+   "delta": 10,
+   "reason": "注册奖励",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "user_id": 4,
+   "delta": 10,
+   "reason": "注册奖励",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "user_id": 5,
+   "delta": 10,
+   "reason": "注册奖励",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "user_id": 6,
+   "delta": 10,
+   "reason": "注册奖励",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "user_id": 7,
+   "delta": 10,
+   "reason": "注册奖励",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "user_id": 2,
+   "delta": 5,
+   "reason": "发布帖子",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "user_id": 3,
+   "delta": 5,
+   "reason": "发布帖子",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 10,
+   "user_id": 5,
+   "delta": 5,
+   "reason": "发布帖子",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 11,
+   "user_id": 6,
+   "delta": 5,
+   "reason": "发布帖子",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 12,
+   "user_id": 7,
+   "delta": 5,
+   "reason": "发布帖子",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 13,
+   "user_id": 4,
+   "delta": 5,
+   "reason": "发布帖子",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 14,
+   "user_id": 2,
+   "delta": 5,
+   "reason": "发布帖子",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 15,
+   "user_id": 5,
+   "delta": 5,
+   "reason": "发布帖子",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 16,
+   "user_id": 6,
+   "delta": 5,
+   "reason": "发布帖子",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 17,
+   "user_id": 5,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 18,
+   "user_id": 6,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 19,
+   "user_id": 3,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 20,
+   "user_id": 5,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 21,
+   "user_id": 6,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 22,
+   "user_id": 3,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 23,
+   "user_id": 7,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 24,
+   "user_id": 5,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 25,
+   "user_id": 6,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 26,
+   "user_id": 5,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 27,
+   "user_id": 6,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 28,
+   "user_id": 3,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 29,
+   "user_id": 5,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 30,
+   "user_id": 6,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 31,
+   "user_id": 3,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 32,
+   "user_id": 7,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 33,
+   "user_id": 5,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 34,
+   "user_id": 6,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 35,
+   "user_id": 5,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 36,
+   "user_id": 6,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 37,
+   "user_id": 3,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 38,
+   "user_id": 5,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 39,
+   "user_id": 6,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 40,
+   "user_id": 3,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 41,
+   "user_id": 7,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 42,
+   "user_id": 5,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 43,
+   "user_id": 6,
+   "delta": 2,
+   "reason": "发表评论",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 44,
+   "user_id": 2,
+   "delta": 5,
+   "reason": "上传文件",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 45,
+   "user_id": 3,
+   "delta": 5,
+   "reason": "上传文件",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 46,
+   "user_id": 4,
+   "delta": 5,
+   "reason": "上传文件",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 47,
+   "user_id": 6,
+   "delta": 5,
+   "reason": "上传文件",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 48,
+   "user_id": 2,
+   "delta": 20,
+   "reason": "购课成功",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 49,
+   "user_id": 2,
+   "delta": 20,
+   "reason": "支付订单",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 50,
+   "user_id": 2,
+   "delta": 20,
+   "reason": "购课成功",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 51,
+   "user_id": 2,
+   "delta": 20,
+   "reason": "支付订单",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 52,
+   "user_id": 6,
+   "delta": 20,
+   "reason": "购课成功",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 53,
+   "user_id": 6,
+   "delta": 20,
+   "reason": "支付订单",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 54,
+   "user_id": 2,
+   "delta": 2,
+   "reason": "完成课时学习",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 55,
+   "user_id": 2,
+   "delta": 2,
+   "reason": "完成课时学习",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 56,
+   "user_id": 2,
+   "delta": 2,
+   "reason": "完成课时学习",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 57,
+   "user_id": 2,
+   "delta": 3,
+   "reason": "完成测评",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 58,
+   "user_id": 5,
+   "delta": 3,
+   "reason": "完成测评",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 59,
+   "user_id": 6,
+   "delta": 3,
+   "reason": "完成测评",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "news": [
+  {
+   "id": 1,
+   "title": "OpenAI 发布新一代推理模型，数学与代码基准显著提升",
+   "summary": "新模型在多项推理基准上取得领先，重点强化了多步推理与工具调用能力，同时公布了新的对齐方案。",
+   "content": "新模型在多项推理基准上取得领先，重点强化了多步推理与工具调用能力，同时公布了新的对齐方案。\n\n【要点】\n· 该进展标志着 大模型 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 大模型」模块一起理解。\n",
+   "category": "大模型",
+   "tags": "OpenAI,推理模型,基准",
+   "source": "官方博客",
+   "url": "https://example.com/news/1",
+   "image": "",
+   "publish_time": "2026-10-08 18:55:06",
+   "views": 3182,
+   "likes": 28,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "title": "国内首个大模型备案新规落地，明确生成内容标识要求",
+   "summary": "监管细则明确了生成合成内容的标识、追溯与平台责任划分，对教育类 AI 应用提出了更高要求。",
+   "content": "监管细则明确了生成合成内容的标识、追溯与平台责任划分，对教育类 AI 应用提出了更高要求。\n\n【要点】\n· 该进展标志着 政策 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 评估与安全」模块一起理解。\n",
+   "category": "政策",
+   "tags": "监管,备案,合规",
+   "source": "监管公告",
+   "url": "https://example.com/news/2",
+   "image": "",
+   "publish_time": "2026-09-29 18:55:06",
+   "views": 2738,
+   "likes": 24,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "title": "新一代国产 AI 芯片量产，单卡显存大幅提升",
+   "summary": "新芯片面向训练场景，显存与互联带宽明显增强，有望缓解大模型训练算力瓶颈。",
+   "content": "新芯片面向训练场景，显存与互联带宽明显增强，有望缓解大模型训练算力瓶颈。\n\n【要点】\n· 该进展标志着 硬件 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 硬件」模块一起理解。\n",
+   "category": "硬件",
+   "tags": "芯片,算力,训练",
+   "source": "产业新闻",
+   "url": "https://example.com/news/3",
+   "image": "",
+   "publish_time": "2026-09-20 18:55:06",
+   "views": 2516,
+   "likes": 22,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "title": "AI 编程助手渗透率突破关键节点，研发效率提升明显",
+   "summary": "多家企业披露内部数据显示，AI 辅助编码已覆盖大部分日常开发任务，代码评审方式随之改变。",
+   "content": "多家企业披露内部数据显示，AI 辅助编码已覆盖大部分日常开发任务，代码评审方式随之改变。\n\n【要点】\n· 该进展标志着 应用 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 应用」模块一起理解。\n",
+   "category": "应用",
+   "tags": "编程助手,研发效率",
+   "source": "行业报告",
+   "url": "https://example.com/news/4",
+   "image": "",
+   "publish_time": "2026-09-11 18:55:06",
+   "views": 2294,
+   "likes": 20,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "title": "研究团队披露新型提示词注入攻击，主流 Agent 产品受影响",
+   "summary": "攻击者可通过网页内容劫持 Agent 行为，研究团队同时给出了检测与缓解建议。",
+   "content": "攻击者可通过网页内容劫持 Agent 行为，研究团队同时给出了检测与缓解建议。\n\n【要点】\n· 该进展标志着 安全 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 安全」模块一起理解。\n",
+   "category": "安全",
+   "tags": "提示词注入,Agent,安全",
+   "source": "论文",
+   "url": "https://example.com/news/5",
+   "image": "",
+   "publish_time": "2026-09-02 18:55:06",
+   "views": 2923,
+   "likes": 26,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "title": "开源社区发布高效微调框架，消费级显卡可训练 7B 模型",
+   "summary": "新框架结合 4bit 量化与 LoRA，显著降低了微调的显存门槛，社区反响热烈。",
+   "content": "新框架结合 4bit 量化与 LoRA，显著降低了微调的显存门槛，社区反响热烈。\n\n【要点】\n· 该进展标志着 大模型 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 大模型」模块一起理解。\n",
+   "category": "大模型",
+   "tags": "开源,LoRA,微调",
+   "source": "GitHub",
+   "url": "https://example.com/news/6",
+   "image": "",
+   "publish_time": "2026-08-24 18:55:06",
+   "views": 2146,
+   "likes": 19,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "title": "多模态大模型进入实用阶段，图文理解准确率再创新高",
+   "summary": "新版本在文档理解、图表问答等任务上表现突出，为教育场景的智能答疑提供了更好基础。",
+   "content": "新版本在文档理解、图表问答等任务上表现突出，为教育场景的智能答疑提供了更好基础。\n\n【要点】\n· 该进展标志着 大模型 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 大模型」模块一起理解。\n",
+   "category": "大模型",
+   "tags": "多模态,文档理解",
+   "source": "官方发布",
+   "url": "https://example.com/news/7",
+   "image": "",
+   "publish_time": "2026-08-15 18:55:06",
+   "views": 2627,
+   "likes": 23,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "title": "AI 教育应用监管指引发布，强调学习过程可追溯",
+   "summary": "指引要求面向未成年人的 AI 产品提供时长管理与内容过滤，并保留学习记录以备核查。",
+   "content": "指引要求面向未成年人的 AI 产品提供时长管理与内容过滤，并保留学习记录以备核查。\n\n【要点】\n· 该进展标志着 政策 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 评估与安全」模块一起理解。\n",
+   "category": "政策",
+   "tags": "教育,未成年人,指引",
+   "source": "监管公告",
+   "url": "https://example.com/news/8",
+   "image": "",
+   "publish_time": "2026-08-06 18:55:06",
+   "views": 2035,
+   "likes": 18,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "title": "推理成本一年下降一个数量级，应用层迎来爆发窗口",
+   "summary": "算力优化与服务商竞争共同推动推理价格下降，中小企业部署 AI 应用的门槛明显降低。",
+   "content": "算力优化与服务商竞争共同推动推理价格下降，中小企业部署 AI 应用的门槛明显降低。\n\n【要点】\n· 该进展标志着 应用 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 应用」模块一起理解。\n",
+   "category": "应用",
+   "tags": "推理成本,应用落地",
+   "source": "行业分析",
+   "url": "https://example.com/news/9",
+   "image": "",
+   "publish_time": "2026-07-28 18:55:06",
+   "views": 2442,
+   "likes": 22,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 10,
+   "title": "新型向量数据库版本发布，检索性能大幅提升",
+   "summary": "新版本在十亿级向量规模下保持毫秒级响应，并原生支持混合检索与重排序。",
+   "content": "新版本在十亿级向量规模下保持毫秒级响应，并原生支持混合检索与重排序。\n\n【要点】\n· 该进展标志着 应用 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 应用」模块一起理解。\n",
+   "category": "应用",
+   "tags": "向量数据库,RAG",
+   "source": "官方发布",
+   "url": "https://example.com/news/10",
+   "image": "",
+   "publish_time": "2026-07-19 18:55:06",
+   "views": 1628,
+   "likes": 14,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 11,
+   "title": "大模型对齐研究取得进展，偏好数据效率显著提高",
+   "summary": "研究提出新的偏好学习方法，用更少的标注数据达到相近的对齐效果。",
+   "content": "研究提出新的偏好学习方法，用更少的标注数据达到相近的对齐效果。\n\n【要点】\n· 该进展标志着 大模型 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 大模型」模块一起理解。\n",
+   "category": "大模型",
+   "tags": "对齐,RLHF,DPO",
+   "source": "论文",
+   "url": "https://example.com/news/11",
+   "image": "",
+   "publish_time": "2026-07-10 18:55:06",
+   "views": 1924,
+   "likes": 17,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 12,
+   "title": "数据中心液冷方案加速普及，能耗指标持续改善",
+   "summary": "随着训练集群功率密度上升，液冷成为新建数据中心的默认选项，PUE 指标明显下降。",
+   "content": "随着训练集群功率密度上升，液冷成为新建数据中心的默认选项，PUE 指标明显下降。\n\n【要点】\n· 该进展标志着 硬件 方向的重要变化，值得持续关注。\n· 对学习者的启示：关注其背后的方法而非单一结论。\n· 建议结合本站「知识点讲解 · 硬件」模块一起理解。\n",
+   "category": "硬件",
+   "tags": "数据中心,液冷,能耗",
+   "source": "产业新闻",
+   "url": "https://example.com/news/12",
+   "image": "",
+   "publish_time": "2026-07-01 18:55:06",
+   "views": 1406,
+   "likes": 12,
+   "status": "published",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 13,
+   "title": "某高校开设大模型应用微专业，课程覆盖 RAG 与 Agent",
+   "summary": "课程面向本科高年级与研究生，强调动手实践与项目交付，首批名额迅速报满。",
+   "content": "课程设置包括大模型基础、提示词工程、RAG 系统与 Agent 开发四个模块，考核方式为项目制，要求学生独立完成一个可演示的 AI 应用。",
+   "category": "应用",
+   "tags": "教育,课程,实践",
+   "source": "自动抓取",
+   "url": "https://example.com/auto/1",
+   "image": "",
+   "publish_time": "2026-10-10 18:55:06",
+   "views": 0,
+   "likes": 0,
+   "status": "pending",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 14,
+   "title": "开源社区发布大模型评测集，覆盖中文推理与安全",
+   "summary": "新评测集包含推理、代码、安全三类任务，强调中文场景下的真实分布。",
+   "content": "评测集公开了全部题目与评分脚本，并提供了基线模型的成绩，便于横向对比。",
+   "category": "大模型",
+   "tags": "评测,开源,中文",
+   "source": "自动抓取",
+   "url": "https://example.com/auto/2",
+   "image": "",
+   "publish_time": "2026-10-10 18:55:06",
+   "views": 0,
+   "likes": 0,
+   "status": "pending",
+   "archived": 0,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "news_likes": [],
+ "news_favs": [],
+ "posts": [
+  {
+   "id": 1,
+   "user_id": 2,
+   "title": "从后端转 AI 应用开发，三个月我踩过的坑",
+   "content": "转方向三个月，最大的体会是：**别一上来就啃微调**。\n\n我一开始花了半个月研究 LoRA，结果发现我的业务场景根本用不上——提示词 + RAG 就够了。\n\n整理几个具体建议：\n\n1. 先把提示词写到极致，再考虑别的\n2. RAG 是性价比最高的技能，学会切分和重排就有明显提升\n3. 一定要建立评估集，否则你根本不知道自己有没有变好\n\n现在我在做一个内部知识库问答，命中率从 40% 提到了 78%，靠的就是「重排序 + 引用约束」。有问题欢迎评论区聊～",
+   "topic": "综合讨论",
+   "tags": "转行,经验",
+   "is_pinned": 0,
+   "is_essence": 0,
+   "edited": 0,
+   "status": "published",
+   "likes": 12,
+   "created_at": "2026-10-10 18:55:06",
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "user_id": 3,
+   "title": "【精华】为什么你的提示词总是不稳定",
+   "content": "回答过太多这个问题了，统一说下。\n\n**90% 的不稳定来自三个原因**：\n\n- 约束没写清楚（长度、格式、不知道时怎么办）\n- 没有给示例（你以为描述清楚了，其实没有）\n- 让模型自由发挥格式，然后你自己用正则去猜\n\n第三条最致命。输出格式应该由 Schema 约束，而不是靠模型自觉。\n\n`不要输出任何解释，只返回 JSON` 这句话，能省掉你一半的解析代码。",
+   "topic": "提示词工程",
+   "tags": "提示词,干货",
+   "is_pinned": 0,
+   "is_essence": 1,
+   "edited": 0,
+   "status": "published",
+   "likes": 17,
+   "created_at": "2026-10-10 18:55:06",
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "user_id": 5,
+   "title": "打卡第 30 天：注意力机制终于看懂了",
+   "content": "今天终于把 QKV 想明白了。\n\n打个比方：Q 是你在搜索框输入的关键词，K 是每篇文章的标题，V 是文章内容。\n先用 Q 和每个 K 算相似度（谁跟我最相关），softmax 之后当成权重，最后对 V 加权求和——就是你「记住」的内容。\n\n不知道这个理解对不对，@liyuan 老师能点评一下吗？",
+   "topic": "综合讨论",
+   "tags": "打卡,学习笔记",
+   "is_pinned": 0,
+   "is_essence": 0,
+   "edited": 0,
+   "status": "published",
+   "likes": 22,
+   "created_at": "2026-10-10 18:55:06",
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "user_id": 6,
+   "title": "RAG 检索不到内容，排查了两天的结论",
+   "content": "记录一次排障。现象：知识库明明有答案，模型就是说没有。\n\n排查过程：\n- 先看召回：Top-5 里确实没有正确段落 ❌\n- 怀疑切分：把 2000 字的块改成按标题切，命中率提升明显 ✅\n- 再看嵌入模型：换中文优化过的模型，又提升一档 ✅\n- 最后加重排序：Top-3 命中率从 62% 到 81% ✅\n\n结论：**先定位是检索问题还是生成问题**，别一上来就改提示词。",
+   "topic": "AI 应用开发",
+   "tags": "RAG,排障",
+   "is_pinned": 0,
+   "is_essence": 0,
+   "edited": 0,
+   "status": "published",
+   "likes": 27,
+   "created_at": "2026-10-10 18:55:06",
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "user_id": 7,
+   "title": "关于微调的困惑：数据和 epoch 到底怎么定",
+   "content": "看了一些教程，有人说 3 个 epoch，有人说 10 个。到底听谁的？\n\n我自己的数据大概 3000 条，7B 模型，LoRA r=8。求 @liyuan 老师指点。",
+   "topic": "微调实战",
+   "tags": "微调,求助",
+   "is_pinned": 0,
+   "is_essence": 0,
+   "edited": 0,
+   "status": "published",
+   "likes": 32,
+   "created_at": "2026-10-10 18:55:06",
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "user_id": 4,
+   "title": "分享一套我常用的提示词模板结构",
+   "content": "我自己的模板长这样，用了两年基本没变过：\n\n```\n角色：你是……\n任务：请……\n约束：\n- 输出格式：……\n- 长度：……\n- 资料不足时：明确回答「资料中未提及」\n示例：\n输入：……\n输出：……\n```\n\n关键是最后那条——**允许它说不知道**，幻觉能少一大半。",
+   "topic": "提示词工程",
+   "tags": "模板,干货",
+   "is_pinned": 0,
+   "is_essence": 0,
+   "edited": 0,
+   "status": "published",
+   "likes": 37,
+   "created_at": "2026-10-10 18:55:06",
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "user_id": 2,
+   "title": "建了个 AI 学习小组，欢迎一起打卡",
+   "content": "一个人学容易放弃，想组个小组每天打卡。\n\n形式：每天一个知识点 + 一道题，晚上在讨论区发学习笔记。\n有兴趣的回复 +1，满 5 个人我就建起来。",
+   "topic": "综合讨论",
+   "tags": "打卡,招募",
+   "is_pinned": 1,
+   "is_essence": 0,
+   "edited": 0,
+   "status": "published",
+   "likes": 42,
+   "created_at": "2026-10-10 18:55:06",
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "user_id": 5,
+   "title": "提问：练测里的错题本怎么复习最有效",
+   "content": "我的错题本已经攒了 20 多道了，感觉越攒越多……\n\n大家是怎么复习错题的？是全部重做一遍，还是只看解析？",
+   "topic": "综合讨论",
+   "tags": "学习方法",
+   "is_pinned": 0,
+   "is_essence": 0,
+   "edited": 0,
+   "status": "published",
+   "likes": 7,
+   "created_at": "2026-10-10 18:55:06",
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "user_id": 6,
+   "title": "把课程里的 LoRA 代码跑通了，分享踩坑记录",
+   "content": "跑通第一次 LoRA 训练，记录三个坑：\n\n1. `target_modules` 名字写错，训练静默不生效（loss 几乎不动）\n2. 显存不够，把 `batch_size` 降到 1 再开梯度累积\n3. 中文数据没做长度过滤，超长样本直接把显存吃满\n\n附上我用的配置，供参考。",
+   "topic": "微调实战",
+   "tags": "LoRA,踩坑",
+   "is_pinned": 0,
+   "is_essence": 0,
+   "edited": 0,
+   "status": "published",
+   "likes": 12,
+   "created_at": "2026-10-10 18:55:06",
+   "updated_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "comments": [
+  {
+   "id": 1,
+   "post_id": 1,
+   "user_id": 5,
+   "parent_id": 0,
+   "content": "写得太好了，收藏了！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "post_id": 1,
+   "user_id": 6,
+   "parent_id": 0,
+   "content": "同感，我也是卡在这一步很久。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "post_id": 1,
+   "user_id": 3,
+   "parent_id": 0,
+   "content": "补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "post_id": 2,
+   "user_id": 5,
+   "parent_id": 0,
+   "content": "写得太好了，收藏了！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "post_id": 2,
+   "user_id": 6,
+   "parent_id": 0,
+   "content": "同感，我也是卡在这一步很久。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "post_id": 2,
+   "user_id": 3,
+   "parent_id": 0,
+   "content": "补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "post_id": 2,
+   "user_id": 7,
+   "parent_id": 0,
+   "content": "请问有推荐的资料吗？",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "post_id": 3,
+   "user_id": 5,
+   "parent_id": 0,
+   "content": "写得太好了，收藏了！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "post_id": 3,
+   "user_id": 6,
+   "parent_id": 0,
+   "content": "同感，我也是卡在这一步很久。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 10,
+   "post_id": 4,
+   "user_id": 5,
+   "parent_id": 0,
+   "content": "写得太好了，收藏了！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 11,
+   "post_id": 4,
+   "user_id": 6,
+   "parent_id": 0,
+   "content": "同感，我也是卡在这一步很久。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 12,
+   "post_id": 4,
+   "user_id": 3,
+   "parent_id": 0,
+   "content": "补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 13,
+   "post_id": 5,
+   "user_id": 5,
+   "parent_id": 0,
+   "content": "写得太好了，收藏了！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 14,
+   "post_id": 5,
+   "user_id": 6,
+   "parent_id": 0,
+   "content": "同感，我也是卡在这一步很久。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 15,
+   "post_id": 5,
+   "user_id": 3,
+   "parent_id": 0,
+   "content": "补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 16,
+   "post_id": 5,
+   "user_id": 7,
+   "parent_id": 0,
+   "content": "请问有推荐的资料吗？",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 17,
+   "post_id": 6,
+   "user_id": 5,
+   "parent_id": 0,
+   "content": "写得太好了，收藏了！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 18,
+   "post_id": 6,
+   "user_id": 6,
+   "parent_id": 0,
+   "content": "同感，我也是卡在这一步很久。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 19,
+   "post_id": 7,
+   "user_id": 5,
+   "parent_id": 0,
+   "content": "写得太好了，收藏了！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 20,
+   "post_id": 7,
+   "user_id": 6,
+   "parent_id": 0,
+   "content": "同感，我也是卡在这一步很久。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 21,
+   "post_id": 7,
+   "user_id": 3,
+   "parent_id": 0,
+   "content": "补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 22,
+   "post_id": 8,
+   "user_id": 5,
+   "parent_id": 0,
+   "content": "写得太好了，收藏了！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 23,
+   "post_id": 8,
+   "user_id": 6,
+   "parent_id": 0,
+   "content": "同感，我也是卡在这一步很久。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 24,
+   "post_id": 8,
+   "user_id": 3,
+   "parent_id": 0,
+   "content": "补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 25,
+   "post_id": 8,
+   "user_id": 7,
+   "parent_id": 0,
+   "content": "请问有推荐的资料吗？",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 26,
+   "post_id": 9,
+   "user_id": 5,
+   "parent_id": 0,
+   "content": "写得太好了，收藏了！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 27,
+   "post_id": 9,
+   "user_id": 6,
+   "parent_id": 0,
+   "content": "同感，我也是卡在这一步很久。",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "post_likes": [
+  {
+   "user_id": 5,
+   "post_id": 1,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "post_id": 1,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 7,
+   "post_id": 1,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 4,
+   "post_id": 1,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "post_id": 2,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "post_id": 2,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 7,
+   "post_id": 2,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 4,
+   "post_id": 2,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "post_id": 3,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "post_id": 3,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 7,
+   "post_id": 3,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 4,
+   "post_id": 3,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "post_id": 4,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "post_id": 4,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 7,
+   "post_id": 4,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 4,
+   "post_id": 4,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "post_id": 5,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "post_id": 5,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 7,
+   "post_id": 5,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 4,
+   "post_id": 5,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "post_id": 6,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "post_id": 6,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 7,
+   "post_id": 6,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 4,
+   "post_id": 6,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "post_id": 7,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "post_id": 7,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 7,
+   "post_id": 7,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 4,
+   "post_id": 7,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "post_id": 8,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "post_id": 8,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 7,
+   "post_id": 8,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 4,
+   "post_id": 8,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "post_id": 9,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "post_id": 9,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 7,
+   "post_id": 9,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 4,
+   "post_id": 9,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "drafts": [],
+ "reports": [],
+ "notifications": [
+  {
+   "id": 1,
+   "user_id": 3,
+   "ntype": "mention",
+   "content": "小艾 在帖子中提到了你：「打卡第 30 天：注意力机制终于看懂了」",
+   "link": "post:3",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "user_id": 3,
+   "ntype": "mention",
+   "content": "陈默 在帖子中提到了你：「关于微调的困惑：数据和 epoch 到底怎么定」",
+   "link": "post:5",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "user_id": 2,
+   "ntype": "comment",
+   "content": "小艾 评论了你的发言：写得太好了，收藏了！",
+   "link": "post:1",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "user_id": 2,
+   "ntype": "comment",
+   "content": "阿哲 评论了你的发言：同感，我也是卡在这一步很久。",
+   "link": "post:1",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "user_id": 2,
+   "ntype": "comment",
+   "content": "李明远 评论了你的发言：补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "link": "post:1",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "user_id": 3,
+   "ntype": "comment",
+   "content": "小艾 评论了你的发言：写得太好了，收藏了！",
+   "link": "post:2",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "user_id": 3,
+   "ntype": "comment",
+   "content": "阿哲 评论了你的发言：同感，我也是卡在这一步很久。",
+   "link": "post:2",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "user_id": 3,
+   "ntype": "comment",
+   "content": "陈默 评论了你的发言：请问有推荐的资料吗？",
+   "link": "post:2",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "user_id": 5,
+   "ntype": "comment",
+   "content": "阿哲 评论了你的发言：同感，我也是卡在这一步很久。",
+   "link": "post:3",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 10,
+   "user_id": 6,
+   "ntype": "comment",
+   "content": "小艾 评论了你的发言：写得太好了，收藏了！",
+   "link": "post:4",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 11,
+   "user_id": 6,
+   "ntype": "comment",
+   "content": "李明远 评论了你的发言：补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "link": "post:4",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 12,
+   "user_id": 7,
+   "ntype": "comment",
+   "content": "小艾 评论了你的发言：写得太好了，收藏了！",
+   "link": "post:5",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 13,
+   "user_id": 7,
+   "ntype": "comment",
+   "content": "阿哲 评论了你的发言：同感，我也是卡在这一步很久。",
+   "link": "post:5",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 14,
+   "user_id": 7,
+   "ntype": "comment",
+   "content": "李明远 评论了你的发言：补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "link": "post:5",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 15,
+   "user_id": 4,
+   "ntype": "comment",
+   "content": "小艾 评论了你的发言：写得太好了，收藏了！",
+   "link": "post:6",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 16,
+   "user_id": 4,
+   "ntype": "comment",
+   "content": "阿哲 评论了你的发言：同感，我也是卡在这一步很久。",
+   "link": "post:6",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 17,
+   "user_id": 2,
+   "ntype": "comment",
+   "content": "小艾 评论了你的发言：写得太好了，收藏了！",
+   "link": "post:7",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 18,
+   "user_id": 2,
+   "ntype": "comment",
+   "content": "阿哲 评论了你的发言：同感，我也是卡在这一步很久。",
+   "link": "post:7",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 19,
+   "user_id": 2,
+   "ntype": "comment",
+   "content": "李明远 评论了你的发言：补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "link": "post:7",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 20,
+   "user_id": 5,
+   "ntype": "comment",
+   "content": "阿哲 评论了你的发言：同感，我也是卡在这一步很久。",
+   "link": "post:8",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 21,
+   "user_id": 5,
+   "ntype": "comment",
+   "content": "李明远 评论了你的发言：补充一点：建议同时准备好评估集，否则很难量化提升。",
+   "link": "post:8",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 22,
+   "user_id": 5,
+   "ntype": "comment",
+   "content": "陈默 评论了你的发言：请问有推荐的资料吗？",
+   "link": "post:8",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 23,
+   "user_id": 6,
+   "ntype": "comment",
+   "content": "小艾 评论了你的发言：写得太好了，收藏了！",
+   "link": "post:9",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 24,
+   "user_id": 3,
+   "ntype": "system",
+   "content": "你的发言被标记为精华，感谢分享！",
+   "link": "post:2",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 25,
+   "user_id": 2,
+   "ntype": "order",
+   "content": "《大模型原理 30 讲：从 Transformer 到对齐》已开通，快去学习吧！",
+   "link": "my",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 26,
+   "user_id": 2,
+   "ntype": "order",
+   "content": "订单 BGL202610101855067288 支付成功，已为你开通相应课程。",
+   "link": "my",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 27,
+   "user_id": 2,
+   "ntype": "order",
+   "content": "《提示词工程实战：从入门到稳定产出》已开通，快去学习吧！",
+   "link": "my",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 28,
+   "user_id": 2,
+   "ntype": "order",
+   "content": "订单 BGL202610101855065144 支付成功，已为你开通相应课程。",
+   "link": "my",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 29,
+   "user_id": 6,
+   "ntype": "order",
+   "content": "《LoRA 微调实战：一张显卡跑通全流程》已开通，快去学习吧！",
+   "link": "my",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 30,
+   "user_id": 6,
+   "ntype": "order",
+   "content": "订单 BGL202610101855068226 支付成功，已为你开通相应课程。",
+   "link": "my",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 31,
+   "user_id": 2,
+   "ntype": "system",
+   "content": "欢迎来到「BGL 的 AI 学习」！建议从「知识点讲解 → 大模型基础」开始。",
+   "link": "knowledge",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 32,
+   "user_id": 2,
+   "ntype": "order",
+   "content": "你购买的课程已开通，快去「我的学习」继续吧。",
+   "link": "my",
+   "is_read": 0,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "messages": [],
+ "files": [
+  {
+   "id": 1,
+   "user_id": 2,
+   "filename": "提示词模板库.md",
+   "stored_name": "310af08931f7f8f0.md",
+   "category": "课件",
+   "tags": "提示词,模板",
+   "size": 169,
+   "mime": "text/markdown",
+   "visibility": "public",
+   "downloads": 0,
+   "last_download": "",
+   "version": 1,
+   "root_id": 1,
+   "is_latest": 1,
+   "deleted": 0,
+   "deleted_at": "",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "user_id": 3,
+   "filename": "LoRA-训练配置.yaml",
+   "stored_name": "d8366e2bb1925b7a.yaml",
+   "category": "代码",
+   "tags": "LoRA,配置",
+   "size": 117,
+   "mime": "application/octet-stream",
+   "visibility": "public",
+   "downloads": 0,
+   "last_download": "",
+   "version": 1,
+   "root_id": 2,
+   "is_latest": 1,
+   "deleted": 0,
+   "deleted_at": "",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "user_id": 4,
+   "filename": "AI 学习路线图.txt",
+   "stored_name": "7df8d5a24afd5005.txt",
+   "category": "其他",
+   "tags": "路线图,学习",
+   "size": 164,
+   "mime": "text/plain",
+   "visibility": "login",
+   "downloads": 0,
+   "last_download": "",
+   "version": 1,
+   "root_id": 3,
+   "is_latest": 1,
+   "deleted": 0,
+   "deleted_at": "",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "user_id": 6,
+   "filename": "RAG 排障清单.md",
+   "stored_name": "f91beaa53bce81cf.md",
+   "category": "论文",
+   "tags": "RAG,排障",
+   "size": 181,
+   "mime": "text/markdown",
+   "visibility": "public",
+   "downloads": 0,
+   "last_download": "",
+   "version": 1,
+   "root_id": 4,
+   "is_latest": 1,
+   "deleted": 0,
+   "deleted_at": "",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "courses": [
+  {
+   "id": 1,
+   "instructor_id": 3,
+   "title": "大模型原理 30 讲：从 Transformer 到对齐",
+   "cover": "",
+   "intro": "系统拆解 Transformer、注意力、预训练、SFT 与 RLHF，配套 30 讲视频与课后测验，适合零基础转 AI 方向的同学。",
+   "outline": "",
+   "category": "大模型基础",
+   "tags": "大模型基础",
+   "price": 199.0,
+   "original_price": 399.0,
+   "ctype": "recorded",
+   "status": "on",
+   "rating": 4.67,
+   "rating_count": 3,
+   "sales": 12,
+   "validity_days": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "instructor_id": 4,
+   "title": "提示词工程实战：从入门到稳定产出",
+   "cover": "",
+   "intro": "不讲玄学，只讲可复现的方法：四要素模板、Few-shot、CoT、结构化输出与注入防御，含 20 个可直接复用的提示词模板。",
+   "outline": "",
+   "category": "提示词工程",
+   "tags": "提示词工程",
+   "price": 129.0,
+   "original_price": 259.0,
+   "ctype": "recorded",
+   "status": "on",
+   "rating": 4.67,
+   "rating_count": 3,
+   "sales": 15,
+   "validity_days": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "instructor_id": 3,
+   "title": "LoRA 微调实战：一张显卡跑通全流程",
+   "cover": "",
+   "intro": "从数据清洗、LoRA 配置、训练监控到效果评估的完整闭环，附可运行代码与踩坑清单。",
+   "outline": "",
+   "category": "微调实战",
+   "tags": "微调实战",
+   "price": 299.0,
+   "original_price": 599.0,
+   "ctype": "recorded",
+   "status": "on",
+   "rating": 4.67,
+   "rating_count": 3,
+   "sales": 18,
+   "validity_days": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "instructor_id": 4,
+   "title": "RAG 企业级落地：检索、重排与评估",
+   "cover": "",
+   "intro": "用真实文档搭建一套可用的知识库问答，重点解决「检索不到」和「检索到但不用」两大顽疾。",
+   "outline": "",
+   "category": "AI 应用开发",
+   "tags": "AI 应用开发",
+   "price": 249.0,
+   "original_price": 449.0,
+   "ctype": "recorded",
+   "status": "on",
+   "rating": 4.67,
+   "rating_count": 3,
+   "sales": 20,
+   "validity_days": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "instructor_id": 3,
+   "title": "AI Agent 开发：工具调用与流程编排",
+   "cover": "",
+   "intro": "从 Function Calling 到多步 Agent 循环，讲清终止条件、错误恢复与成本控制。",
+   "outline": "",
+   "category": "AI 应用开发",
+   "tags": "AI 应用开发",
+   "price": 219.0,
+   "original_price": 399.0,
+   "ctype": "recorded",
+   "status": "on",
+   "rating": 4.67,
+   "rating_count": 3,
+   "sales": 23,
+   "validity_days": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "instructor_id": 4,
+   "title": "AI 学习路径规划（免费公开课）",
+   "cover": "",
+   "intro": "面向零基础与转行同学：三个月学习路线、必备工具清单、以及如何做出能写进简历的项目。",
+   "outline": "",
+   "category": "职业发展",
+   "tags": "职业发展",
+   "price": 0.0,
+   "original_price": 0.0,
+   "ctype": "text",
+   "status": "on",
+   "rating": 4.67,
+   "rating_count": 3,
+   "sales": 26,
+   "validity_days": 0,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "chapters": [
+  {
+   "id": 1,
+   "course_id": 1,
+   "title": "第一章 · 架构基础",
+   "order_no": 1
+  },
+  {
+   "id": 2,
+   "course_id": 1,
+   "title": "第二章 · 训练范式",
+   "order_no": 2
+  },
+  {
+   "id": 3,
+   "course_id": 1,
+   "title": "第三章 · 阶段测验",
+   "order_no": 3
+  },
+  {
+   "id": 4,
+   "course_id": 2,
+   "title": "第一章 · 基础心法",
+   "order_no": 1
+  },
+  {
+   "id": 5,
+   "course_id": 2,
+   "title": "第二章 · 进阶技巧",
+   "order_no": 2
+  },
+  {
+   "id": 6,
+   "course_id": 2,
+   "title": "第三章 · 模板库",
+   "order_no": 3
+  },
+  {
+   "id": 7,
+   "course_id": 3,
+   "title": "第一章 · 准备",
+   "order_no": 1
+  },
+  {
+   "id": 8,
+   "course_id": 3,
+   "title": "第二章 · 训练",
+   "order_no": 2
+  },
+  {
+   "id": 9,
+   "course_id": 3,
+   "title": "第三章 · 评估与部署",
+   "order_no": 3
+  },
+  {
+   "id": 10,
+   "course_id": 4,
+   "title": "第一章 · 检索基础",
+   "order_no": 1
+  },
+  {
+   "id": 11,
+   "course_id": 4,
+   "title": "第二章 · 提升精度",
+   "order_no": 2
+  },
+  {
+   "id": 12,
+   "course_id": 4,
+   "title": "第三章 · 评估与迭代",
+   "order_no": 3
+  },
+  {
+   "id": 13,
+   "course_id": 5,
+   "title": "第一章 · 工具调用",
+   "order_no": 1
+  },
+  {
+   "id": 14,
+   "course_id": 5,
+   "title": "第二章 · Agent 循环",
+   "order_no": 2
+  },
+  {
+   "id": 15,
+   "course_id": 6,
+   "title": "第一章 · 路线图",
+   "order_no": 1
+  },
+  {
+   "id": 16,
+   "course_id": 6,
+   "title": "第二章 · 作品集",
+   "order_no": 2
+  }
+ ],
+ "lessons": [
+  {
+   "id": 1,
+   "course_id": 1,
+   "chapter_id": 1,
+   "title": "Transformer 全景速览",
+   "ltype": "video",
+   "content": "《大模型原理 30 讲：从 Transformer 到对齐》· Transformer 全景速览",
+   "duration": 1320,
+   "is_free": 1,
+   "order_no": 1
+  },
+  {
+   "id": 2,
+   "course_id": 1,
+   "chapter_id": 1,
+   "title": "自注意力机制推导",
+   "ltype": "video",
+   "content": "《大模型原理 30 讲：从 Transformer 到对齐》· 自注意力机制推导",
+   "duration": 2100,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 3,
+   "course_id": 1,
+   "chapter_id": 1,
+   "title": "位置编码与长文本",
+   "ltype": "video",
+   "content": "《大模型原理 30 讲：从 Transformer 到对齐》· 位置编码与长文本",
+   "duration": 1680,
+   "is_free": 0,
+   "order_no": 3
+  },
+  {
+   "id": 4,
+   "course_id": 1,
+   "chapter_id": 2,
+   "title": "预训练任务设计",
+   "ltype": "video",
+   "content": "《大模型原理 30 讲：从 Transformer 到对齐》· 预训练任务设计",
+   "duration": 1860,
+   "is_free": 0,
+   "order_no": 1
+  },
+  {
+   "id": 5,
+   "course_id": 1,
+   "chapter_id": 2,
+   "title": "SFT 数据构造实战",
+   "ltype": "video",
+   "content": "《大模型原理 30 讲：从 Transformer 到对齐》· SFT 数据构造实战",
+   "duration": 2400,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 6,
+   "course_id": 1,
+   "chapter_id": 2,
+   "title": "RLHF 与 DPO 对比",
+   "ltype": "video",
+   "content": "《大模型原理 30 讲：从 Transformer 到对齐》· RLHF 与 DPO 对比",
+   "duration": 1980,
+   "is_free": 0,
+   "order_no": 3
+  },
+  {
+   "id": 7,
+   "course_id": 1,
+   "chapter_id": 3,
+   "title": "原理综合测验",
+   "ltype": "quiz",
+   "content": "《大模型原理 30 讲：从 Transformer 到对齐》· 原理综合测验",
+   "duration": 1200,
+   "is_free": 0,
+   "order_no": 1
+  },
+  {
+   "id": 8,
+   "course_id": 2,
+   "chapter_id": 4,
+   "title": "提示词四要素",
+   "ltype": "video",
+   "content": "《提示词工程实战：从入门到稳定产出》· 提示词四要素",
+   "duration": 1080,
+   "is_free": 1,
+   "order_no": 1
+  },
+  {
+   "id": 9,
+   "course_id": 2,
+   "chapter_id": 4,
+   "title": "常见误区与反例",
+   "ltype": "video",
+   "content": "《提示词工程实战：从入门到稳定产出》· 常见误区与反例",
+   "duration": 1260,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 10,
+   "course_id": 2,
+   "chapter_id": 5,
+   "title": "Few-shot 与思维链",
+   "ltype": "video",
+   "content": "《提示词工程实战：从入门到稳定产出》· Few-shot 与思维链",
+   "duration": 1620,
+   "is_free": 0,
+   "order_no": 1
+  },
+  {
+   "id": 11,
+   "course_id": 2,
+   "chapter_id": 5,
+   "title": "结构化输出与自修复",
+   "ltype": "video",
+   "content": "《提示词工程实战：从入门到稳定产出》· 结构化输出与自修复",
+   "duration": 1500,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 12,
+   "course_id": 2,
+   "chapter_id": 5,
+   "title": "提示词注入防御",
+   "ltype": "video",
+   "content": "《提示词工程实战：从入门到稳定产出》· 提示词注入防御",
+   "duration": 1440,
+   "is_free": 0,
+   "order_no": 3
+  },
+  {
+   "id": 13,
+   "course_id": 2,
+   "chapter_id": 6,
+   "title": "20 个高频场景模板",
+   "ltype": "doc",
+   "content": "《提示词工程实战：从入门到稳定产出》· 20 个高频场景模板",
+   "duration": 900,
+   "is_free": 0,
+   "order_no": 1
+  },
+  {
+   "id": 14,
+   "course_id": 3,
+   "chapter_id": 7,
+   "title": "环境与显存估算",
+   "ltype": "video",
+   "content": "《LoRA 微调实战：一张显卡跑通全流程》· 环境与显存估算",
+   "duration": 1560,
+   "is_free": 1,
+   "order_no": 1
+  },
+  {
+   "id": 15,
+   "course_id": 3,
+   "chapter_id": 7,
+   "title": "指令数据清洗",
+   "ltype": "video",
+   "content": "《LoRA 微调实战：一张显卡跑通全流程》· 指令数据清洗",
+   "duration": 1800,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 16,
+   "course_id": 3,
+   "chapter_id": 8,
+   "title": "LoRA 参数怎么调",
+   "ltype": "video",
+   "content": "《LoRA 微调实战：一张显卡跑通全流程》· LoRA 参数怎么调",
+   "duration": 2040,
+   "is_free": 0,
+   "order_no": 1
+  },
+  {
+   "id": 17,
+   "course_id": 3,
+   "chapter_id": 8,
+   "title": "训练监控与止损",
+   "ltype": "video",
+   "content": "《LoRA 微调实战：一张显卡跑通全流程》· 训练监控与止损",
+   "duration": 1740,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 18,
+   "course_id": 3,
+   "chapter_id": 9,
+   "title": "效果评估与回归测试",
+   "ltype": "video",
+   "content": "《LoRA 微调实战：一张显卡跑通全流程》· 效果评估与回归测试",
+   "duration": 1860,
+   "is_free": 0,
+   "order_no": 1
+  },
+  {
+   "id": 19,
+   "course_id": 3,
+   "chapter_id": 9,
+   "title": "权重合并与部署",
+   "ltype": "video",
+   "content": "《LoRA 微调实战：一张显卡跑通全流程》· 权重合并与部署",
+   "duration": 1440,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 20,
+   "course_id": 4,
+   "chapter_id": 10,
+   "title": "嵌入与相似度",
+   "ltype": "video",
+   "content": "《RAG 企业级落地：检索、重排与评估》· 嵌入与相似度",
+   "duration": 1380,
+   "is_free": 1,
+   "order_no": 1
+  },
+  {
+   "id": 21,
+   "course_id": 4,
+   "chapter_id": 10,
+   "title": "切分策略实战",
+   "ltype": "video",
+   "content": "《RAG 企业级落地：检索、重排与评估》· 切分策略实战",
+   "duration": 1560,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 22,
+   "course_id": 4,
+   "chapter_id": 11,
+   "title": "MMR 去冗与重排序",
+   "ltype": "video",
+   "content": "《RAG 企业级落地：检索、重排与评估》· MMR 去冗与重排序",
+   "duration": 1920,
+   "is_free": 0,
+   "order_no": 1
+  },
+  {
+   "id": 23,
+   "course_id": 4,
+   "chapter_id": 11,
+   "title": "混合检索方案",
+   "ltype": "video",
+   "content": "《RAG 企业级落地：检索、重排与评估》· 混合检索方案",
+   "duration": 1680,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 24,
+   "course_id": 4,
+   "chapter_id": 12,
+   "title": "检索指标怎么量化",
+   "ltype": "video",
+   "content": "《RAG 企业级落地：检索、重排与评估》· 检索指标怎么量化",
+   "duration": 1500,
+   "is_free": 0,
+   "order_no": 1
+  },
+  {
+   "id": 25,
+   "course_id": 5,
+   "chapter_id": 13,
+   "title": "Function Calling 设计",
+   "ltype": "video",
+   "content": "《AI Agent 开发：工具调用与流程编排》· Function Calling 设计",
+   "duration": 1440,
+   "is_free": 1,
+   "order_no": 1
+  },
+  {
+   "id": 26,
+   "course_id": 5,
+   "chapter_id": 13,
+   "title": "参数 Schema 与校验",
+   "ltype": "video",
+   "content": "《AI Agent 开发：工具调用与流程编排》· 参数 Schema 与校验",
+   "duration": 1320,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 27,
+   "course_id": 5,
+   "chapter_id": 14,
+   "title": "ReAct 与终止条件",
+   "ltype": "video",
+   "content": "《AI Agent 开发：工具调用与流程编排》· ReAct 与终止条件",
+   "duration": 1800,
+   "is_free": 0,
+   "order_no": 1
+  },
+  {
+   "id": 28,
+   "course_id": 5,
+   "chapter_id": 14,
+   "title": "错误恢复与重试",
+   "ltype": "video",
+   "content": "《AI Agent 开发：工具调用与流程编排》· 错误恢复与重试",
+   "duration": 1560,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 29,
+   "course_id": 6,
+   "chapter_id": 15,
+   "title": "三个月学习路线",
+   "ltype": "doc",
+   "content": "《AI 学习路径规划（免费公开课）》· 三个月学习路线",
+   "duration": 720,
+   "is_free": 1,
+   "order_no": 1
+  },
+  {
+   "id": 30,
+   "course_id": 6,
+   "chapter_id": 15,
+   "title": "必备工具与资源",
+   "ltype": "doc",
+   "content": "《AI 学习路径规划（免费公开课）》· 必备工具与资源",
+   "duration": 600,
+   "is_free": 0,
+   "order_no": 2
+  },
+  {
+   "id": 31,
+   "course_id": 6,
+   "chapter_id": 16,
+   "title": "如何做出可展示的项目",
+   "ltype": "doc",
+   "content": "《AI 学习路径规划（免费公开课）》· 如何做出可展示的项目",
+   "duration": 900,
+   "is_free": 0,
+   "order_no": 1
+  }
+ ],
+ "enrollments": [
+  {
+   "id": 1,
+   "user_id": 2,
+   "course_id": 1,
+   "order_id": 1,
+   "progress": 42.9,
+   "completed": 0,
+   "certificate_code": "",
+   "created_at": "2026-10-10 18:55:06",
+   "expires_at": ""
+  },
+  {
+   "id": 2,
+   "user_id": 2,
+   "course_id": 2,
+   "order_id": 2,
+   "progress": 0.0,
+   "completed": 0,
+   "certificate_code": "",
+   "created_at": "2026-10-10 18:55:06",
+   "expires_at": ""
+  },
+  {
+   "id": 3,
+   "user_id": 6,
+   "course_id": 3,
+   "order_id": 3,
+   "progress": 0.0,
+   "completed": 0,
+   "certificate_code": "",
+   "created_at": "2026-10-10 18:55:06",
+   "expires_at": ""
+  }
+ ],
+ "lesson_progress": [
+  {
+   "user_id": 2,
+   "lesson_id": 1,
+   "course_id": 1,
+   "completed": 1,
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 2,
+   "lesson_id": 2,
+   "course_id": 1,
+   "completed": 1,
+   "updated_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 2,
+   "lesson_id": 3,
+   "course_id": 1,
+   "completed": 1,
+   "updated_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "course_reviews": [
+  {
+   "id": 1,
+   "course_id": 1,
+   "user_id": 2,
+   "rating": 5,
+   "content": "讲得很清楚，终于把注意力搞懂了。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "course_id": 1,
+   "user_id": 5,
+   "rating": 5,
+   "content": "配套测验很实用，能查漏补缺。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "course_id": 1,
+   "user_id": 6,
+   "rating": 4,
+   "content": "内容扎实，希望多加一些实战案例。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "course_id": 2,
+   "user_id": 2,
+   "rating": 5,
+   "content": "讲得很清楚，终于把注意力搞懂了。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "course_id": 2,
+   "user_id": 5,
+   "rating": 5,
+   "content": "配套测验很实用，能查漏补缺。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "course_id": 2,
+   "user_id": 6,
+   "rating": 4,
+   "content": "内容扎实，希望多加一些实战案例。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "course_id": 3,
+   "user_id": 2,
+   "rating": 5,
+   "content": "讲得很清楚，终于把注意力搞懂了。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "course_id": 3,
+   "user_id": 5,
+   "rating": 5,
+   "content": "配套测验很实用，能查漏补缺。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "course_id": 3,
+   "user_id": 6,
+   "rating": 4,
+   "content": "内容扎实，希望多加一些实战案例。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 10,
+   "course_id": 4,
+   "user_id": 2,
+   "rating": 5,
+   "content": "讲得很清楚，终于把注意力搞懂了。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 11,
+   "course_id": 4,
+   "user_id": 5,
+   "rating": 5,
+   "content": "配套测验很实用，能查漏补缺。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 12,
+   "course_id": 4,
+   "user_id": 6,
+   "rating": 4,
+   "content": "内容扎实，希望多加一些实战案例。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 13,
+   "course_id": 5,
+   "user_id": 2,
+   "rating": 5,
+   "content": "讲得很清楚，终于把注意力搞懂了。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 14,
+   "course_id": 5,
+   "user_id": 5,
+   "rating": 5,
+   "content": "配套测验很实用，能查漏补缺。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 15,
+   "course_id": 5,
+   "user_id": 6,
+   "rating": 4,
+   "content": "内容扎实，希望多加一些实战案例。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 16,
+   "course_id": 6,
+   "user_id": 2,
+   "rating": 5,
+   "content": "讲得很清楚，终于把注意力搞懂了。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 17,
+   "course_id": 6,
+   "user_id": 5,
+   "rating": 5,
+   "content": "配套测验很实用，能查漏补缺。",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 18,
+   "course_id": 6,
+   "user_id": 6,
+   "rating": 4,
+   "content": "内容扎实，希望多加一些实战案例。",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "course_qa": [],
+ "lives": [
+  {
+   "id": 1,
+   "course_id": 6,
+   "instructor_id": 3,
+   "title": "大模型原理答疑专场：注意力到底怎么算",
+   "cover": "",
+   "intro": "本周答疑：把注意力矩阵真正动手算一遍，现场回答学员提问。",
+   "start_at": "2026-10-10 20:55:06",
+   "status": "replay",
+   "price": 0.0,
+   "replay_access": "free",
+   "online_count": 6,
+   "likes": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "course_id": 5,
+   "instructor_id": 4,
+   "title": "提示词工程公开课：让你的输出稳定下来",
+   "cover": "",
+   "intro": "公开课：结构化输出 + 自修复循环，现场演示三个真实场景。",
+   "start_at": "2026-10-13 21:55:06",
+   "status": "upcoming",
+   "price": 0.0,
+   "replay_access": "free",
+   "online_count": 9,
+   "likes": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "course_id": 4,
+   "instructor_id": 3,
+   "title": "LoRA 微调实战直播：从 0 跑通一次训练",
+   "cover": "",
+   "intro": "带练直播：现场配置 LoRA、启动训练、观察 loss 曲线。",
+   "start_at": "2026-10-11 23:55:06",
+   "status": "live",
+   "price": 99.0,
+   "replay_access": "paid",
+   "online_count": 4,
+   "likes": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "course_id": 3,
+   "instructor_id": 4,
+   "title": "RAG 系统调优实战：把命中率提上去",
+   "cover": "",
+   "intro": "实战直播：现场对一套失败案例做检索诊断与重排优化。",
+   "start_at": "2026-10-16 22:55:06",
+   "status": "upcoming",
+   "price": 0.0,
+   "replay_access": "free",
+   "online_count": 15,
+   "likes": 0,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "live_reservations": [
+  {
+   "live_id": 1,
+   "user_id": 2,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 1,
+   "user_id": 5,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 1,
+   "user_id": 6,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 1,
+   "user_id": 7,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 2,
+   "user_id": 2,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 2,
+   "user_id": 5,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 2,
+   "user_id": 6,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 2,
+   "user_id": 7,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 3,
+   "user_id": 2,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 3,
+   "user_id": 5,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 3,
+   "user_id": 6,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 3,
+   "user_id": 7,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 4,
+   "user_id": 2,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 4,
+   "user_id": 5,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 4,
+   "user_id": 6,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "live_id": 4,
+   "user_id": 7,
+   "reminded": 0,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "live_chat": [
+  {
+   "id": 1,
+   "live_id": 1,
+   "user_id": 5,
+   "content": "老师讲得好清楚！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "live_id": 1,
+   "user_id": 6,
+   "content": "这个例子太形象了",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "live_id": 1,
+   "user_id": 3,
+   "content": "有问题随时打在公屏上～",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "live_id": 1,
+   "user_id": 2,
+   "content": "+1，学到了",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "live_id": 2,
+   "user_id": 5,
+   "content": "老师讲得好清楚！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "live_id": 2,
+   "user_id": 6,
+   "content": "这个例子太形象了",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "live_id": 2,
+   "user_id": 3,
+   "content": "有问题随时打在公屏上～",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "live_id": 2,
+   "user_id": 2,
+   "content": "+1，学到了",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "live_id": 3,
+   "user_id": 5,
+   "content": "老师讲得好清楚！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 10,
+   "live_id": 3,
+   "user_id": 6,
+   "content": "这个例子太形象了",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 11,
+   "live_id": 3,
+   "user_id": 3,
+   "content": "有问题随时打在公屏上～",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 12,
+   "live_id": 3,
+   "user_id": 2,
+   "content": "+1，学到了",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 13,
+   "live_id": 4,
+   "user_id": 5,
+   "content": "老师讲得好清楚！",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 14,
+   "live_id": 4,
+   "user_id": 6,
+   "content": "这个例子太形象了",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 15,
+   "live_id": 4,
+   "user_id": 3,
+   "content": "有问题随时打在公屏上～",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 16,
+   "live_id": 4,
+   "user_id": 2,
+   "content": "+1，学到了",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "live_interactions": [
+  {
+   "id": 1,
+   "live_id": 1,
+   "itype": "poll",
+   "question": "你觉得哪一部分最难？",
+   "payload": "[\"注意力机制\", \"微调参数\", \"RAG 调优\", \"评估方法\"]",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "live_id": 2,
+   "itype": "poll",
+   "question": "你觉得哪一部分最难？",
+   "payload": "[\"注意力机制\", \"微调参数\", \"RAG 调优\", \"评估方法\"]",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "live_id": 3,
+   "itype": "poll",
+   "question": "你觉得哪一部分最难？",
+   "payload": "[\"注意力机制\", \"微调参数\", \"RAG 调优\", \"评估方法\"]",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "live_id": 4,
+   "itype": "poll",
+   "question": "你觉得哪一部分最难？",
+   "payload": "[\"注意力机制\", \"微调参数\", \"RAG 调优\", \"评估方法\"]",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "live_votes": [],
+ "live_handraise": [],
+ "products": [
+  {
+   "id": 1,
+   "ptype": "course",
+   "ref_id": 6,
+   "title": "AI 学习路径规划（免费公开课）",
+   "cover": "",
+   "description": "面向零基础与转行同学：三个月学习路线、必备工具清单、以及如何做出能写进简历的项目。",
+   "price": 0.0,
+   "original_price": 0.0,
+   "active": 1,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "ptype": "course",
+   "ref_id": 5,
+   "title": "AI Agent 开发：工具调用与流程编排",
+   "cover": "",
+   "description": "从 Function Calling 到多步 Agent 循环，讲清终止条件、错误恢复与成本控制。",
+   "price": 219.0,
+   "original_price": 399.0,
+   "active": 1,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "ptype": "course",
+   "ref_id": 4,
+   "title": "RAG 企业级落地：检索、重排与评估",
+   "cover": "",
+   "description": "用真实文档搭建一套可用的知识库问答，重点解决「检索不到」和「检索到但不用」两大顽疾。",
+   "price": 249.0,
+   "original_price": 449.0,
+   "active": 1,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "ptype": "course",
+   "ref_id": 3,
+   "title": "LoRA 微调实战：一张显卡跑通全流程",
+   "cover": "",
+   "description": "从数据清洗、LoRA 配置、训练监控到效果评估的完整闭环，附可运行代码与踩坑清单。",
+   "price": 299.0,
+   "original_price": 599.0,
+   "active": 1,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "ptype": "course",
+   "ref_id": 2,
+   "title": "提示词工程实战：从入门到稳定产出",
+   "cover": "",
+   "description": "不讲玄学，只讲可复现的方法：四要素模板、Few-shot、CoT、结构化输出与注入防御，含 20 个可直接复用的提示词模板。",
+   "price": 129.0,
+   "original_price": 259.0,
+   "active": 1,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "ptype": "course",
+   "ref_id": 1,
+   "title": "大模型原理 30 讲：从 Transformer 到对齐",
+   "cover": "",
+   "description": "系统拆解 Transformer、注意力、预训练、SFT 与 RLHF，配套 30 讲视频与课后测验，适合零基础转 AI 方向的同学。",
+   "price": 199.0,
+   "original_price": 399.0,
+   "active": 1,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "cart": [],
+ "coupons": [
+  {
+   "id": 1,
+   "code": "WELCOME10",
+   "ctype": "full_reduce",
+   "value": 10.0,
+   "min_amount": 50.0,
+   "expires_at": "2027-01-08 18:55:06",
+   "max_uses": 1000,
+   "used_count": 0
+  },
+  {
+   "id": 2,
+   "code": "NEW20",
+   "ctype": "newcomer",
+   "value": 20.0,
+   "min_amount": 100.0,
+   "expires_at": "2026-12-09 18:55:06",
+   "max_uses": 500,
+   "used_count": 0
+  },
+  {
+   "id": 3,
+   "code": "VIP88",
+   "ctype": "discount",
+   "value": 0.88,
+   "min_amount": 200.0,
+   "expires_at": "2026-11-09 18:55:06",
+   "max_uses": 300,
+   "used_count": 0
+  }
+ ],
+ "user_coupons": [
+  {
+   "user_id": 2,
+   "coupon_id": 1,
+   "used": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "coupon_id": 1,
+   "used": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 2,
+   "coupon_id": 2,
+   "used": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "coupon_id": 2,
+   "used": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 2,
+   "coupon_id": 3,
+   "used": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "coupon_id": 3,
+   "used": 0,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "orders": [
+  {
+   "id": 1,
+   "order_no": "BGL202610101855067288",
+   "user_id": 2,
+   "amount": 199.0,
+   "discount": 0.0,
+   "points_used": 0,
+   "final_amount": 199.0,
+   "status": "paid",
+   "pay_method": "wechat",
+   "coupon_id": 0,
+   "is_flashsale": 0,
+   "group_buy": 0,
+   "risk_flag": "",
+   "paid_at": "2026-10-10 18:55:06",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "order_no": "BGL202610101855065144",
+   "user_id": 2,
+   "amount": 129.0,
+   "discount": 0.0,
+   "points_used": 0,
+   "final_amount": 129.0,
+   "status": "paid",
+   "pay_method": "wechat",
+   "coupon_id": 0,
+   "is_flashsale": 0,
+   "group_buy": 0,
+   "risk_flag": "",
+   "paid_at": "2026-10-10 18:55:06",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "order_no": "BGL202610101855068226",
+   "user_id": 6,
+   "amount": 299.0,
+   "discount": 0.0,
+   "points_used": 0,
+   "final_amount": 299.0,
+   "status": "paid",
+   "pay_method": "wechat",
+   "coupon_id": 0,
+   "is_flashsale": 0,
+   "group_buy": 0,
+   "risk_flag": "",
+   "paid_at": "2026-10-10 18:55:06",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "order_no": "BGL202610101855069219",
+   "user_id": 7,
+   "amount": 0.0,
+   "discount": 0.0,
+   "points_used": 0,
+   "final_amount": 0.0,
+   "status": "pending",
+   "pay_method": "",
+   "coupon_id": 0,
+   "is_flashsale": 0,
+   "group_buy": 0,
+   "risk_flag": "",
+   "paid_at": "",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "order_items": [
+  {
+   "id": 1,
+   "order_id": 1,
+   "product_id": 6,
+   "title": "大模型原理 30 讲：从 Transformer 到对齐",
+   "price": 199.0,
+   "qty": 1
+  },
+  {
+   "id": 2,
+   "order_id": 2,
+   "product_id": 5,
+   "title": "提示词工程实战：从入门到稳定产出",
+   "price": 129.0,
+   "qty": 1
+  },
+  {
+   "id": 3,
+   "order_id": 3,
+   "product_id": 4,
+   "title": "LoRA 微调实战：一张显卡跑通全流程",
+   "price": 299.0,
+   "qty": 1
+  },
+  {
+   "id": 4,
+   "order_id": 4,
+   "product_id": 1,
+   "title": "AI 学习路径规划（免费公开课）",
+   "price": 0.0,
+   "qty": 1
+  }
+ ],
+ "refunds": [],
+ "transactions": [
+  {
+   "id": 1,
+   "user_id": 3,
+   "ttype": "income",
+   "amount": 163.18,
+   "order_id": 1,
+   "status": "done",
+   "note": "课程《大模型原理 30 讲：从 Transformer 到对齐》收益",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "user_id": 0,
+   "ttype": "commission",
+   "amount": 35.82,
+   "order_id": 1,
+   "status": "done",
+   "note": "平台佣金",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "user_id": 2,
+   "ttype": "purchase",
+   "amount": -199.0,
+   "order_id": 1,
+   "status": "done",
+   "note": "订单支付",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "user_id": 4,
+   "ttype": "income",
+   "amount": 103.2,
+   "order_id": 2,
+   "status": "done",
+   "note": "课程《提示词工程实战：从入门到稳定产出》收益",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "user_id": 0,
+   "ttype": "commission",
+   "amount": 25.8,
+   "order_id": 2,
+   "status": "done",
+   "note": "平台佣金",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "user_id": 2,
+   "ttype": "purchase",
+   "amount": -129.0,
+   "order_id": 2,
+   "status": "done",
+   "note": "订单支付",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "user_id": 3,
+   "ttype": "income",
+   "amount": 245.18,
+   "order_id": 3,
+   "status": "done",
+   "note": "课程《LoRA 微调实战：一张显卡跑通全流程》收益",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "user_id": 0,
+   "ttype": "commission",
+   "amount": 53.82,
+   "order_id": 3,
+   "status": "done",
+   "note": "平台佣金",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "user_id": 6,
+   "ttype": "purchase",
+   "amount": -299.0,
+   "order_id": 3,
+   "status": "done",
+   "note": "订单支付",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "withdrawals": [],
+ "invoices": [],
+ "knowledge": [
+  {
+   "id": 1,
+   "module": "大模型基础",
+   "title": "Transformer 架构全景",
+   "summary": "理解 Encoder/Decoder 堆叠、残差与 LayerNorm 的作用，是读懂一切大模型论文的起点。",
+   "body": "Transformer 把「序列建模」拆成两个可并行的子层：多头自注意力负责在任意两个位置之间建立联系，前馈网络负责对每个位置做非线性变换。每个子层外面都套了一层残差连接（Residual）和层归一化（LayerNorm），残差保证梯度能跨层直通，LayerNorm 稳定每一层的数值分布。训练时靠位置编码注入顺序信息——因为注意力本身对位置是「无序」的。",
+   "formula": "Attention(Q,K,V) = softmax(QKᵀ/√d_k)·V",
+   "code": "",
+   "difficulty": "入门",
+   "order_no": 1,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "module": "大模型基础",
+   "title": "注意力机制：为什么它能替代 RNN",
+   "summary": "QKV 三元组、缩放点积、多头并行的直觉解释。",
+   "body": "注意力的本质是「加权求和」：用 Query 和每个 Key 做点积得到相关性分数，softmax 归一化成权重，再对 Value 加权求和。相比 RNN 的逐步递推，注意力的路径长度是 O(1)——任意两个位置一步可达，所以长距离依赖不会衰减；代价是 O(n²) 的计算量。缩放因子 √d_k 的作用是把点积的方差拉回 1 附近，避免 softmax 进入饱和区导致梯度消失。",
+   "formula": "MultiHead = Concat(head₁,…,head_h)·W^O",
+   "code": "",
+   "difficulty": "入门",
+   "order_no": 2,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "module": "大模型基础",
+   "title": "Token、上下文窗口与位置编码",
+   "summary": "为什么「字数」不等于 token 数，上下文窗口如何决定成本与能力边界。",
+   "body": "模型看到的不是字符而是 token。中文常见 1 个字 ≈ 1–1.5 个 token，英文约 1 个词 ≈ 1.3 个 token。上下文窗口（Context Window）是单次推理能容纳的最大 token 数，它同时决定三件事：能塞进多少资料、显存占用、以及单位请求的成本。长上下文并不等于「记得住」——中间位置的信息容易被忽略（Lost in the Middle 现象），关键内容建议放在开头或结尾。",
+   "formula": "",
+   "code": "",
+   "difficulty": "入门",
+   "order_no": 3,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "module": "大模型基础",
+   "title": "预训练、SFT 与涌现能力",
+   "summary": "三个阶段的目标差异，以及「规模带来能力突现」的经验规律。",
+   "body": "预训练（Pre-training）用海量无标注语料做下一 token 预测，得到的是「语言的统计规律」；监督微调（SFT）用指令-回答对把模型对齐到「听指令」的形态；强化学习（RLHF/DPO）再对齐到人类偏好。涌现（Emergence）指某些能力在小模型上几乎为零、跨过某个规模阈值后突然出现——它在工程上的启示是：能力不足时，先考虑换更大的基座，而不是只堆提示词技巧。",
+   "formula": "",
+   "code": "",
+   "difficulty": "进阶",
+   "order_no": 4,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "module": "提示词工程",
+   "title": "提示词的四个必备要素",
+   "summary": "角色、任务、约束、示例——缺一个就多一轮返工。",
+   "body": "一个稳定可用的提示词通常包含四块：① 角色（你是谁、以什么标准回答）；② 任务（要做什么，动词开头）；③ 约束（长度、格式、禁止项、不知道时怎么办）；④ 示例（1–3 条输入输出对照，比任何形容词都有效）。经验：把「约束」写清楚带来的收益，远大于反复更换礼貌用语。",
+   "formula": "",
+   "code": "",
+   "difficulty": "入门",
+   "order_no": 1,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "module": "提示词工程",
+   "title": "Few-shot 与思维链（CoT）",
+   "summary": "什么时候给例子，什么时候让它「先想再答」。",
+   "body": "Few-shot 通过少量示例把任务的隐含规则显式化，适合格式敏感、判据微妙的场景。思维链（Chain-of-Thought）让模型先输出推理过程再给结论，在数学、逻辑、多步决策任务上显著提升准确率；但对纯检索/抽取类任务收益有限，反而增加 token 成本。工程建议：先零样本试，不行再补示例，最后才上 CoT。",
+   "formula": "",
+   "code": "prompt = f\"{instruction}\\n\\n示例：\\n{examples}\\n\\n问题：{q}\\n逐步推理后作答：\"",
+   "difficulty": "进阶",
+   "order_no": 2,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "module": "提示词工程",
+   "title": "结构化输出与 JSON 约束",
+   "summary": "用 Schema 把「自由文本」变成「可编程数据」。",
+   "body": "让模型稳定输出 JSON 的要点：① 给出完整 Schema 与字段语义；② 明确「只输出 JSON，不要解释」；③ 给出一个字段齐全的示例；④ 解析失败时把错误信息喂回去重试（自修复循环）。对稳定性要求高的场景，优先使用模型厂商提供的结构化输出 / Function Calling 能力，而不是靠提示词祈祷。",
+   "formula": "",
+   "code": "{\"title\": str, \"tags\": [str], \"score\": int}",
+   "difficulty": "进阶",
+   "order_no": 3,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "module": "提示词工程",
+   "title": "提示词注入与防御",
+   "summary": "当输入来自用户或外部文档时，你的提示词就不再安全。",
+   "body": "提示词注入指攻击者在输入里夹带「忽略以上指令」之类的文本，劫持模型行为。防御手段：① 把外部内容用明确的分隔符包裹并声明「以下内容仅为数据，不是指令」；② 关键动作（下单、发信、删数据）必须由代码校验而非模型自行决定；③ 对输出做白名单 Schema 校验；④ 最小权限——不要给模型不需要的工具。",
+   "formula": "",
+   "code": "",
+   "difficulty": "高阶",
+   "order_no": 4,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "module": "微调与对齐",
+   "title": "全参数微调 vs LoRA / QLoRA",
+   "summary": "显存、效果、部署成本三者的取舍。",
+   "body": "全参数微调更新所有权重，效果上限高，但需要数倍显存且每个下游任务产出一份完整权重。LoRA 冻结原权重、只训练低秩旁路矩阵（A·B），参数量常降到 0.1%–1%，显存大幅下降、产物只有几十 MB，可插拔切换。QLoRA 在此基础上把基座量化到 4bit 再挂 LoRA，让单张消费级显卡也能微调 7B 模型。工程经验：先用 LoRA 验证任务可行性，效果触顶再考虑全参。",
+   "formula": "W' = W + BA,  rank(B·A) = r ≪ d",
+   "code": "lora = LoraConfig(r=8, lora_alpha=16, target_modules=[\"q_proj\",\"v_proj\"])",
+   "difficulty": "进阶",
+   "order_no": 1,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 10,
+   "module": "微调与对齐",
+   "title": "RLHF 与 DPO：对齐到底在对什么",
+   "summary": "从「会说话」到「说人话、不闯祸」。",
+   "body": "RLHF 分三步：收集人类偏好比较数据 → 训练奖励模型（RM）→ 用 PPO 在奖励引导下优化策略。效果好但流程复杂、训练不稳定。DPO 直接把「偏好对」转成一个类似分类的损失，跳过奖励模型与强化学习，训练更稳、成本更低，已成为主流替代方案。对齐的代价：过度对齐会导致「安全但无用」，需要用偏好数据的多样性来平衡。",
+   "formula": "L_DPO = -log σ(β·[log π(y_w)/π_ref(y_w) − log π(y_l)/π_ref(y_l)])",
+   "code": "",
+   "difficulty": "高阶",
+   "order_no": 2,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 11,
+   "module": "微调与对齐",
+   "title": "指令数据质量与配比",
+   "summary": "数据决定上限：1000 条干净数据 > 10 万条噪声。",
+   "body": "微调数据的三个关键：① 覆盖度——任务类型、长度分布、指令风格要与你真实的调用分布一致；② 质量——错答、答非所问、格式不一致的样本会直接被模型学走；③ 配比——通用能力数据与领域数据混编，防止「学新忘旧」。实用做法：先人工精修 500 条种子数据跑通流程，再用强模型批量扩增 + 人工抽检。",
+   "formula": "",
+   "code": "",
+   "difficulty": "进阶",
+   "order_no": 3,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 12,
+   "module": "微调与对齐",
+   "title": "灾难性遗忘与缓解",
+   "summary": "微调后模型「变笨了」怎么办。",
+   "body": "灾难性遗忘指微调把通用能力覆盖掉，表现为除了新任务之外什么都答不好。缓解手段：① 降低学习率、缩短训练轮数（1–3 epoch 通常足够）；② 混入 5%–20% 通用指令数据；③ 用 LoRA 而非全参更新；④ 训练后做「能力回归测试」，把通用题集当成回归用例常态化跑。",
+   "formula": "",
+   "code": "",
+   "difficulty": "高阶",
+   "order_no": 4,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 13,
+   "module": "RAG 与向量检索",
+   "title": "向量嵌入与相似度度量",
+   "summary": "把语义变成可计算的向量距离。",
+   "body": "嵌入模型把文本映射为稠密向量，语义相近的文本在向量空间中距离更近。常用度量：余弦相似度（关注方向，最常用）、点积（对模长敏感，适合归一化后的向量）、欧氏距离。选择嵌入模型要看三件事：中文效果、支持的输入长度、以及向量维度带来的存储成本。",
+   "formula": "cos(a,b) = (a·b) / (‖a‖‖b‖)",
+   "code": "",
+   "difficulty": "入门",
+   "order_no": 1,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 14,
+   "module": "RAG 与向量检索",
+   "title": "切分策略与 MMR 去冗",
+   "summary": "切得太碎丢上下文，切得太大稀释相关性。",
+   "body": "文档切分要在「语义完整」与「检索精度」之间平衡：常见做法是按标题层级切，再对超长块做滑动窗口重叠（overlap 10%–20%）。检索出 Top-K 后往往高度冗余，用 MMR（最大边际相关性）在「相关性」和「多样性」之间取折中，公式上通过 λ 调节：λ=1 只看相关，λ=0 只看多样。",
+   "formula": "MMR = argmax[λ·sim(d,q) − (1−λ)·max sim(d,d_j)]",
+   "code": "",
+   "difficulty": "进阶",
+   "order_no": 2,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 15,
+   "module": "RAG 与向量检索",
+   "title": "重排序（Rerank）与检索质量",
+   "summary": "召回靠向量，精度靠重排。",
+   "body": "两阶段检索：先用向量做粗召回（快、便宜、召回率高），再用交叉编码器（Cross-Encoder）对候选逐条精排（慢、准）。重排序能显著提升 Top-3 命中率，是 RAG 系统性价比最高的优化点之一。评估要用「检索指标」（Recall@K、MRR）而不是只看最终回答，否则无法定位问题出在检索还是生成。",
+   "formula": "",
+   "code": "",
+   "difficulty": "进阶",
+   "order_no": 3,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 16,
+   "module": "RAG 与向量检索",
+   "title": "RAG 的失败模式清单",
+   "summary": "检索错、上下文挤、答案编——三种典型故障与对策。",
+   "body": "① 检索不到：检查切分粒度、嵌入模型是否匹配语言、Top-K 是否过小；② 检索到了但没用上：上下文过长导致「中间遗忘」，或提示词没要求「必须基于给定资料回答」；③ 检索到错的还照答：加入引用约束（回答必须标出来源段落），并在提示词里允许「资料不足时明确说不知道」。",
+   "formula": "",
+   "code": "",
+   "difficulty": "高阶",
+   "order_no": 4,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 17,
+   "module": "AI 应用开发",
+   "title": "Function Calling 与工具调用",
+   "summary": "让模型从「会说」变成「会做」。",
+   "body": "Function Calling 让模型输出结构化的调用意图（函数名 + 参数），由你的代码真正执行。关键设计：① 工具描述要写清「什么时候用」而不只是「是什么」；② 参数用 JSON Schema 严格约束；③ 执行结果要回填给模型并允许它继续多轮决策；④ 危险操作必须由代码二次确认。",
+   "formula": "",
+   "code": "tools=[{\"name\":\"search\",\"parameters\":{\"type\":\"object\",\"properties\":{\"q\":{\"type\":\"string\"}}}}]",
+   "difficulty": "进阶",
+   "order_no": 1,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 18,
+   "module": "AI 应用开发",
+   "title": "Agent 循环与终止条件",
+   "summary": "ReAct、最大步数、以及「怎么知道它做完了」。",
+   "body": "Agent = 模型 + 工具 + 循环。每一轮：观察 → 思考 → 选择动作 → 执行 → 把结果作为新观察。工程上必须设三个保险：最大步数上限、单步超时、以及「无进展检测」（连续两轮动作相同则强制终止）。没有终止条件的 Agent 是生产事故的常见来源。",
+   "formula": "",
+   "code": "for step in range(MAX_STEPS):\\n    act = llm.decide(state)\\n    if act.done: break",
+   "difficulty": "进阶",
+   "order_no": 2,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 19,
+   "module": "AI 应用开发",
+   "title": "流式输出、并发与成本控制",
+   "summary": "体验、吞吐、账单三件事一起优化。",
+   "body": "流式输出（SSE/WebSocket）把首 token 延迟作为体验指标而非总耗时；并发方面用异步请求池批量调用，注意供应商的 QPS 与 TPM 限制；成本控制三板斧：缓存（相同请求直接命中）、模型分级路由（简单任务用小模型）、提示词瘦身（去掉无效的冗长指令）。",
+   "formula": "",
+   "code": "",
+   "difficulty": "进阶",
+   "order_no": 3,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 20,
+   "module": "AI 应用开发",
+   "title": "微调 / RAG / 提示词：怎么选",
+   "summary": "一张决策树替代无休止的争论。",
+   "body": "决策顺序建议：① 先写提示词，零样本不行就 Few-shot ——成本最低、迭代最快；② 需要私有知识且知识会变 → RAG（知识更新无需重训）；③ 需要固定风格 / 特定格式 / 领域术语稳定输出 → 微调；④ 需要「做动作」 → Function Calling / Agent。三者可叠加：RAG 提供事实，微调提供风格，提示词负责调度。",
+   "formula": "",
+   "code": "",
+   "difficulty": "入门",
+   "order_no": 4,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 21,
+   "module": "评估与安全",
+   "title": "如何评估一个大模型应用",
+   "summary": "没有评估集，就没有优化方向。",
+   "body": "最小可行评估：准备 50–200 条覆盖真实分布的问题 + 期望答案，定义可自动打分的指标（分类用准确率/F1，生成用「关键点命中率」或 LLM-as-Judge 打分）。每次改动后跑全量评估集，记录指标变化——这是把「感觉变好了」变成「确实变好了」的唯一办法。",
+   "formula": "命中率 = 命中的关键点数 / 期望关键点总数",
+   "code": "",
+   "difficulty": "进阶",
+   "order_no": 1,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 22,
+   "module": "评估与安全",
+   "title": "幻觉的成因与抑制",
+   "summary": "模型不是「不知道」，而是「必须说点什么」。",
+   "body": "幻觉来自三处：训练数据本身有误、模型被激励成「总是给出答案」、以及检索/上下文没提供依据。抑制手段：允许并鼓励模型回答「资料中没有」；强制引用来源；对数值/事实类问题做规则校验；把最终输出交给确定性代码做兜底校验，而不是完全信任生成结果。",
+   "formula": "",
+   "code": "",
+   "difficulty": "进阶",
+   "order_no": 2,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 23,
+   "module": "评估与安全",
+   "title": "红队测试与提示词越狱",
+   "summary": "在上线前，先自己攻击自己。",
+   "body": "红队测试清单：越权指令绕过、角色扮演诱导、多轮对话渗透、编码混淆（Base64/拼音）绕过关键词、以及数据外泄（诱导模型吐出系统提示词）。每次上线新功能前至少跑一遍标准攻击集，把通过的用例沉淀为回归测试。",
+   "formula": "",
+   "code": "",
+   "difficulty": "高阶",
+   "order_no": 3,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 24,
+   "module": "评估与安全",
+   "title": "数据合规与内容边界",
+   "summary": "能做什么，比能做成什么更重要。",
+   "body": "上线生成式功能需明确四件事：① 训练/调用数据的来源与授权；② 用户输入是否会回流用于训练（要给出开关与说明）；③ 生成内容的标识与追溯；④ 高风险领域（医疗、法律、金融）必须加入免责声明与人工复核入口。把这些写进隐私政策与用户协议，并在界面显著位置提示。",
+   "formula": "",
+   "code": "",
+   "difficulty": "高阶",
+   "order_no": 4,
+   "views": 0,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "questions": [
+  {
+   "id": 1,
+   "module": "大模型基础",
+   "qtype": "single",
+   "stem": "Transformer 中残差连接的主要作用是？",
+   "options": "[\"提升显存利用率\", \"让梯度可以跨层直通，缓解深层网络退化\", \"减少注意力计算量\", \"替代位置编码\"]",
+   "answer": "B",
+   "analysis": "残差连接使梯度有一条恒等映射的直通路径，是深层网络可训练的关键。",
+   "difficulty": "入门",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "module": "大模型基础",
+   "qtype": "single",
+   "stem": "自注意力计算中对 QKᵀ 除以 √d_k 的目的是？",
+   "options": "[\"减少参数量\", \"防止点积过大导致 softmax 饱和、梯度消失\", \"加速矩阵乘法\", \"增强位置信息\"]",
+   "answer": "B",
+   "analysis": "缩放使点积方差归一到 1 附近，避免 softmax 输出接近 one-hot。",
+   "difficulty": "入门",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "module": "大模型基础",
+   "qtype": "judge",
+   "stem": "上下文窗口越大，模型对中间位置信息的利用就越充分。",
+   "options": "[\"正确\", \"错误\"]",
+   "answer": "B",
+   "analysis": "存在 Lost in the Middle 现象，中间位置的信息容易被忽略。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "module": "大模型基础",
+   "qtype": "single",
+   "stem": "以下哪个阶段的目标是让模型「听懂指令」？",
+   "options": "[\"预训练\", \"监督微调 SFT\", \"分词器训练\", \"量化压缩\"]",
+   "answer": "B",
+   "analysis": "SFT 用指令-回答对把模型对齐到听指令的形态。",
+   "difficulty": "入门",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "module": "大模型基础",
+   "qtype": "multi",
+   "stem": "关于 Token 的说法，正确的有？",
+   "options": "[\"中文 1 个字通常约 1–1.5 个 token\", \"Token 数直接决定显存与成本\", \"英文 1 个词约等于 1 个 token\", \"Token 与字符一一对应\"]",
+   "answer": "A,B",
+   "analysis": "Token 与字符不是一一对应；英文 1 词约 1.3 token。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "module": "提示词工程",
+   "qtype": "single",
+   "stem": "以下哪项不属于提示词四要素？",
+   "options": "[\"角色设定\", \"任务描述\", \"约束条件\", \"模型的学习率\"]",
+   "answer": "D",
+   "analysis": "学习率是训练超参数，不属于提示词要素。",
+   "difficulty": "入门",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "module": "提示词工程",
+   "qtype": "judge",
+   "stem": "思维链（CoT）在所有任务上都能提升效果。",
+   "options": "[\"正确\", \"错误\"]",
+   "answer": "B",
+   "analysis": "对纯检索/抽取类任务收益有限，反而增加 token 成本。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "module": "提示词工程",
+   "qtype": "single",
+   "stem": "提高结构化输出稳定性的最可靠做法是？",
+   "options": "[\"在提示词里反复强调\", \"把 temperature 调到 2\", \"使用厂商提供的结构化输出 / Function Calling\", \"增加输出长度\"]",
+   "answer": "C",
+   "analysis": "由运行时强约束 Schema 比靠提示词祈祷可靠得多。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "module": "提示词工程",
+   "qtype": "multi",
+   "stem": "防御提示词注入的合理手段包括？",
+   "options": "[\"用分隔符包裹外部内容并声明其为数据\", \"关键动作由代码校验而非模型决定\", \"对输出做 Schema 白名单校验\", \"把系统提示词完整告诉用户\"]",
+   "answer": "A,B,C",
+   "analysis": "泄露系统提示词会显著增加被绕过风险。",
+   "difficulty": "高阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 10,
+   "module": "提示词工程",
+   "qtype": "single",
+   "stem": "Few-shot 最主要的价值是？",
+   "options": "[\"降低 token 消耗\", \"把任务中隐含的判据与格式显式化\", \"提升模型参数量\", \"加快推理速度\"]",
+   "answer": "B",
+   "analysis": "示例比任何形容词描述都更能传达隐性规则。",
+   "difficulty": "入门",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 11,
+   "module": "微调与对齐",
+   "qtype": "single",
+   "stem": "LoRA 相比全参数微调的核心优势是？",
+   "options": "[\"效果一定更好\", \"只训练低秩旁路，显存与产物体积大幅下降且可插拔\", \"不需要训练数据\", \"可以不用 GPU\"]",
+   "answer": "B",
+   "analysis": "LoRA 参数量常降到 0.1%–1%，产物只有几十 MB。",
+   "difficulty": "入门",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 12,
+   "module": "微调与对齐",
+   "qtype": "single",
+   "stem": "DPO 相比 RLHF 的主要改进是？",
+   "options": "[\"完全不需要偏好数据\", \"跳过奖励模型与强化学习，训练更稳定\", \"只能用在小模型上\", \"不再需要 SFT\"]",
+   "answer": "B",
+   "analysis": "DPO 直接把偏好对转成损失，流程大幅简化。",
+   "difficulty": "高阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 13,
+   "module": "微调与对齐",
+   "qtype": "judge",
+   "stem": "微调的 epoch 数越多，效果一定越好。",
+   "options": "[\"正确\", \"错误\"]",
+   "answer": "B",
+   "analysis": "通常 1–3 epoch 足够，过多会导致过拟合与灾难性遗忘。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 14,
+   "module": "微调与对齐",
+   "qtype": "multi",
+   "stem": "缓解灾难性遗忘的手段有？",
+   "options": "[\"降低学习率、减少训练轮数\", \"混入通用指令数据\", \"使用 LoRA 而非全参更新\", \"把数据集缩减到 10 条\"]",
+   "answer": "A,B,C",
+   "analysis": "数据量太小只会让模型学不到东西，不能缓解遗忘。",
+   "difficulty": "高阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 15,
+   "module": "微调与对齐",
+   "qtype": "single",
+   "stem": "指令数据质量的第一要素是？",
+   "options": "[\"数量足够多\", \"与真实调用分布一致且答案正确\", \"全部来自网络抓取\", \"长度统一\"]",
+   "answer": "B",
+   "analysis": "覆盖度与质量决定上限，1000 条干净数据胜过 10 万条噪声。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 16,
+   "module": "RAG 与向量检索",
+   "qtype": "single",
+   "stem": "RAG 中重排序（Rerank）的主要作用是？",
+   "options": "[\"加快向量检索速度\", \"用交叉编码器对候选做精排，提升 Top-K 精度\", \"压缩向量维度\", \"替代嵌入模型\"]",
+   "answer": "B",
+   "analysis": "两阶段检索：向量粗召回 + 交叉编码器精排。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 17,
+   "module": "RAG 与向量检索",
+   "qtype": "single",
+   "stem": "MMR 算法调节的是什么？",
+   "options": "[\"相似度度量方式\", \"相关性与多样性之间的平衡\", \"切分块大小\", \"向量维度\"]",
+   "answer": "B",
+   "analysis": "λ 越大越偏向相关性，越小越偏向多样性。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 18,
+   "module": "RAG 与向量检索",
+   "qtype": "judge",
+   "stem": "文档切分得越碎，检索效果一定越好。",
+   "options": "[\"正确\", \"错误\"]",
+   "answer": "B",
+   "analysis": "太碎会丢失上下文，需要与语义完整性平衡并设置重叠。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 19,
+   "module": "RAG 与向量检索",
+   "qtype": "multi",
+   "stem": "RAG 检索不到内容时，可能的原因包括？",
+   "options": "[\"切分粒度过大导致语义被稀释\", \"嵌入模型与语种不匹配\", \"Top-K 设置过小\", \"用户没有登录\"]",
+   "answer": "A,B,C",
+   "analysis": "是否登录与检索质量无关。",
+   "difficulty": "高阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 20,
+   "module": "RAG 与向量检索",
+   "qtype": "single",
+   "stem": "评估检索质量应优先看哪个指标？",
+   "options": "[\"最终回答的流畅度\", \"Recall@K 或 MRR\", \"生成 token 数\", \"响应时间\"]",
+   "answer": "B",
+   "analysis": "只看最终回答无法区分问题出在检索还是生成。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 21,
+   "module": "AI 应用开发",
+   "qtype": "single",
+   "stem": "Function Calling 中真正执行函数的是？",
+   "options": "[\"大模型自身\", \"你的应用程序代码\", \"向量数据库\", \"分词器\"]",
+   "answer": "B",
+   "analysis": "模型只输出调用意图，执行必须由代码完成并做权限校验。",
+   "difficulty": "入门",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 22,
+   "module": "AI 应用开发",
+   "qtype": "multi",
+   "stem": "Agent 循环必须设置的安全阀包括？",
+   "options": "[\"最大步数上限\", \"单步超时\", \"无进展检测\", \"无限循环以追求最优解\"]",
+   "answer": "A,B,C",
+   "analysis": "没有终止条件的 Agent 是生产事故常见来源。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 23,
+   "module": "AI 应用开发",
+   "qtype": "single",
+   "stem": "以下哪种需求最适合用 RAG 而非微调？",
+   "options": "[\"固定输出风格的品牌文案\", \"私有知识且知识频繁更新\", \"教会模型一种新语言\", \"减少模型参数量\"]",
+   "answer": "B",
+   "analysis": "知识会变时 RAG 无需重训，更新成本最低。",
+   "difficulty": "入门",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 24,
+   "module": "AI 应用开发",
+   "qtype": "single",
+   "stem": "控制 API 成本最直接的三招不包括？",
+   "options": "[\"结果缓存\", \"模型分级路由\", \"提示词瘦身\", \"把 temperature 设为 0.9\"]",
+   "answer": "D",
+   "analysis": "temperature 主要影响随机性，不直接决定成本。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 25,
+   "module": "AI 应用开发",
+   "qtype": "judge",
+   "stem": "流式输出主要优化的是首 token 延迟带来的体验。",
+   "options": "[\"正确\", \"错误\"]",
+   "answer": "A",
+   "analysis": "流式让用户更快看到内容，感知等待显著降低。",
+   "difficulty": "入门",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 26,
+   "module": "评估与安全",
+   "qtype": "single",
+   "stem": "构建最小可行评估集时，最关键的是？",
+   "options": "[\"题目数量达到一万条\", \"覆盖真实使用分布且答案可自动判定\", \"全部使用学术基准\", \"只由开发者自己出题\"]",
+   "answer": "B",
+   "analysis": "分布代表性与可自动判定是评估能进入迭代循环的前提。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 27,
+   "module": "评估与安全",
+   "qtype": "single",
+   "stem": "抑制幻觉最有效的工程手段是？",
+   "options": "[\"提高 temperature\", \"允许模型回答「资料中没有」并强制引用来源\", \"增加生成长度\", \"更换更礼貌的提示词\"]",
+   "answer": "B",
+   "analysis": "把「不知道」变成可接受的输出，是抑制编造的第一道闸门。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 28,
+   "module": "评估与安全",
+   "qtype": "multi",
+   "stem": "红队测试的常见攻击手法包括？",
+   "options": "[\"角色扮演诱导\", \"编码混淆绕过关键词\", \"多轮对话逐步渗透\", \"随机丢弃训练数据\"]",
+   "answer": "A,B,C",
+   "analysis": "丢训练数据属于训练侧问题，不是越狱攻击手法。",
+   "difficulty": "高阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 29,
+   "module": "评估与安全",
+   "qtype": "single",
+   "stem": "高风险领域（医疗/法律/金融）上线生成式功能的必要动作是？",
+   "options": "[\"完全禁止使用\", \"加入免责声明与人工复核入口并留存追溯信息\", \"只对内部员工开放\", \"关闭日志以保护隐私\"]",
+   "answer": "B",
+   "analysis": "合规提示 + 人工复核 + 可追溯是落地的基本门槛。",
+   "difficulty": "高阶",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 30,
+   "module": "评估与安全",
+   "qtype": "judge",
+   "stem": "用户输入是否回流用于训练，平台应明确告知并提供关闭选项。",
+   "options": "[\"正确\", \"错误\"]",
+   "answer": "A",
+   "analysis": "这是数据合规的基本要求。",
+   "difficulty": "进阶",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "quiz_records": [
+  {
+   "id": 1,
+   "user_id": 2,
+   "mode": "practice",
+   "module": "大模型基础",
+   "total": 5,
+   "correct": 3,
+   "score": 60.0,
+   "detail": "[{\"qid\": 1, \"stem\": \"Transformer 中残差连接的主要作用是？\", \"your\": \"A\", \"correct\": [\"B\"], \"ok\": false, \"analysis\": \"残差连接使梯度有一条恒等映射的直通路径，是深层网络可训练的关键。\"}, {\"qid\": 3, \"stem\": \"上下文窗口越大，模型对中间位置信息的利用就越充分。\", \"your\": \"B\", \"correct\": [\"B\"], \"ok\": true, \"analysis\": \"存在 Lost in the Middle 现象，中间位置的信息容易被忽略。\"}, {\"qid\": 4, \"stem\": \"以下哪个阶段的目标是让模型「听懂指令」？\", \"your\": \"B\", \"correct\": [\"B\"], \"ok\": true, \"analysis\": \"SFT 用指令-回答对把模型对齐到听指令的形态。\"}, {\"qid\": 5, \"stem\": \"关于 Token 的说法，正确的有？\", \"your\": \"A\", \"correct\": [\"A\", \"B\"], \"ok\": false, \"analysis\": \"Token 与字符不是一一对应；英文 1 词约 1.3 token。\"}, {\"qid\": 2, \"stem\": \"自注意力计算中对 QKᵀ 除以 √d_k 的目的是？\", \"your\": \"B\", \"correct\": [\"B\"], \"ok\": true, \"analysis\": \"缩放使点积方差归一到 1 附近，避免 softmax 输出接近 one-hot。\"}]",
+   "duration": 420,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "user_id": 5,
+   "mode": "practice",
+   "module": "提示词工程",
+   "total": 5,
+   "correct": 3,
+   "score": 60.0,
+   "detail": "[{\"qid\": 7, \"stem\": \"思维链（CoT）在所有任务上都能提升效果。\", \"your\": \"A\", \"correct\": [\"B\"], \"ok\": false, \"analysis\": \"对纯检索/抽取类任务收益有限，反而增加 token 成本。\"}, {\"qid\": 10, \"stem\": \"Few-shot 最主要的价值是？\", \"your\": \"B\", \"correct\": [\"B\"], \"ok\": true, \"analysis\": \"示例比任何形容词描述都更能传达隐性规则。\"}, {\"qid\": 8, \"stem\": \"提高结构化输出稳定性的最可靠做法是？\", \"your\": \"C\", \"correct\": [\"C\"], \"ok\": true, \"analysis\": \"由运行时强约束 Schema 比靠提示词祈祷可靠得多。\"}, {\"qid\": 9, \"stem\": \"防御提示词注入的合理手段包括？\", \"your\": \"A\", \"correct\": [\"A\", \"B\", \"C\"], \"ok\": false, \"analysis\": \"泄露系统提示词会显著增加被绕过风险。\"}, {\"qid\": 6, \"stem\": \"以下哪项不属于提示词四要素？\", \"your\": \"D\", \"correct\": [\"D\"], \"ok\": true, \"analysis\": \"学习率是训练超参数，不属于提示词要素。\"}]",
+   "duration": 420,
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "user_id": 6,
+   "mode": "practice",
+   "module": "RAG 与向量检索",
+   "total": 5,
+   "correct": 2,
+   "score": 40.0,
+   "detail": "[{\"qid\": 20, \"stem\": \"评估检索质量应优先看哪个指标？\", \"your\": \"A\", \"correct\": [\"B\"], \"ok\": false, \"analysis\": \"只看最终回答无法区分问题出在检索还是生成。\"}, {\"qid\": 16, \"stem\": \"RAG 中重排序（Rerank）的主要作用是？\", \"your\": \"B\", \"correct\": [\"B\"], \"ok\": true, \"analysis\": \"两阶段检索：向量粗召回 + 交叉编码器精排。\"}, {\"qid\": 19, \"stem\": \"RAG 检索不到内容时，可能的原因包括？\", \"your\": \"A\", \"correct\": [\"A\", \"B\", \"C\"], \"ok\": false, \"analysis\": \"是否登录与检索质量无关。\"}, {\"qid\": 17, \"stem\": \"MMR 算法调节的是什么？\", \"your\": \"A\", \"correct\": [\"B\"], \"ok\": false, \"analysis\": \"λ 越大越偏向相关性，越小越偏向多样性。\"}, {\"qid\": 18, \"stem\": \"文档切分得越碎，检索效果一定越好。\", \"your\": \"B\", \"correct\": [\"B\"], \"ok\": true, \"analysis\": \"太碎会丢失上下文，需要与语义完整性平衡并设置重叠。\"}]",
+   "duration": 420,
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "wrong_book": [
+  {
+   "user_id": 2,
+   "question_id": 1,
+   "times": 1,
+   "last_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 2,
+   "question_id": 5,
+   "times": 1,
+   "last_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "question_id": 7,
+   "times": 1,
+   "last_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 5,
+   "question_id": 9,
+   "times": 1,
+   "last_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "question_id": 20,
+   "times": 1,
+   "last_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "question_id": 19,
+   "times": 1,
+   "last_at": "2026-10-10 18:55:06"
+  },
+  {
+   "user_id": 6,
+   "question_id": 17,
+   "times": 1,
+   "last_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "access_logs": [
+  {
+   "id": 1,
+   "user_id": 1,
+   "username": "admin",
+   "action": "register",
+   "detail": "新用户注册",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 2,
+   "user_id": 2,
+   "username": "fangyuan",
+   "action": "register",
+   "detail": "新用户注册",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 3,
+   "user_id": 3,
+   "username": "liyuan",
+   "action": "register",
+   "detail": "新用户注册",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 4,
+   "user_id": 4,
+   "username": "wangxue",
+   "action": "register",
+   "detail": "新用户注册",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 5,
+   "user_id": 5,
+   "username": "xiaoai",
+   "action": "register",
+   "detail": "新用户注册",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 6,
+   "user_id": 6,
+   "username": "azhe",
+   "action": "register",
+   "detail": "新用户注册",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 7,
+   "user_id": 7,
+   "username": "chenmo",
+   "action": "register",
+   "detail": "新用户注册",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 8,
+   "user_id": 2,
+   "username": "fangyuan",
+   "action": "post",
+   "detail": "发帖 #1",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 9,
+   "user_id": 3,
+   "username": "liyuan",
+   "action": "post",
+   "detail": "发帖 #2",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 10,
+   "user_id": 5,
+   "username": "xiaoai",
+   "action": "post",
+   "detail": "发帖 #3",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 11,
+   "user_id": 6,
+   "username": "azhe",
+   "action": "post",
+   "detail": "发帖 #4",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 12,
+   "user_id": 7,
+   "username": "chenmo",
+   "action": "post",
+   "detail": "发帖 #5",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 13,
+   "user_id": 4,
+   "username": "wangxue",
+   "action": "post",
+   "detail": "发帖 #6",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 14,
+   "user_id": 2,
+   "username": "fangyuan",
+   "action": "post",
+   "detail": "发帖 #7",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 15,
+   "user_id": 5,
+   "username": "xiaoai",
+   "action": "post",
+   "detail": "发帖 #8",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 16,
+   "user_id": 6,
+   "username": "azhe",
+   "action": "post",
+   "detail": "发帖 #9",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 17,
+   "user_id": 2,
+   "username": "",
+   "action": "upload",
+   "detail": "提示词模板库.md v1 (169 bytes)",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 18,
+   "user_id": 3,
+   "username": "",
+   "action": "upload",
+   "detail": "LoRA-训练配置.yaml v1 (117 bytes)",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 19,
+   "user_id": 4,
+   "username": "",
+   "action": "upload",
+   "detail": "AI 学习路线图.txt v1 (164 bytes)",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 20,
+   "user_id": 6,
+   "username": "",
+   "action": "upload",
+   "detail": "RAG 排障清单.md v1 (181 bytes)",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 21,
+   "user_id": 2,
+   "username": "",
+   "action": "order_create",
+   "detail": "BGL202610101855067288 ¥199.0 风控=正常",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 22,
+   "user_id": 2,
+   "username": "",
+   "action": "pay",
+   "detail": "BGL202610101855067288 ¥199.0 via wechat",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 23,
+   "user_id": 2,
+   "username": "",
+   "action": "order_create",
+   "detail": "BGL202610101855065144 ¥129.0 风控=正常",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 24,
+   "user_id": 2,
+   "username": "",
+   "action": "pay",
+   "detail": "BGL202610101855065144 ¥129.0 via wechat",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 25,
+   "user_id": 6,
+   "username": "",
+   "action": "order_create",
+   "detail": "BGL202610101855068226 ¥299.0 风控=正常",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 26,
+   "user_id": 6,
+   "username": "",
+   "action": "pay",
+   "detail": "BGL202610101855068226 ¥299.0 via wechat",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 27,
+   "user_id": 7,
+   "username": "",
+   "action": "order_create",
+   "detail": "BGL202610101855069219 ¥0.0 风控=正常",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 28,
+   "user_id": 2,
+   "username": "",
+   "action": "quiz_submit",
+   "detail": "practice 60.0分 (3/5)",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 29,
+   "user_id": 5,
+   "username": "",
+   "action": "quiz_submit",
+   "detail": "practice 60.0分 (3/5)",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 30,
+   "user_id": 6,
+   "username": "",
+   "action": "quiz_submit",
+   "detail": "practice 40.0分 (2/5)",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 31,
+   "user_id": 1,
+   "username": "admin",
+   "action": "seed",
+   "detail": "初始化演示数据",
+   "created_at": "2026-10-10 18:55:06"
+  },
+  {
+   "id": 32,
+   "user_id": 1,
+   "username": "unit",
+   "action": "unit_action",
+   "detail": "detail",
+   "created_at": "2026-10-10 18:55:06"
+  }
+ ],
+ "settings": [
+  {
+   "key": "platform_name",
+   "value": "\"BGL 的 AI 学习\""
+  },
+  {
+   "key": "max_users",
+   "value": "1000"
+  },
+  {
+   "key": "refund_watch_limit",
+   "value": "0.1"
+  },
+  {
+   "key": "seeded_at",
+   "value": "\"2026-10-10 18:55:06\""
+  }
+ ]
+}
