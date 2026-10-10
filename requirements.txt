@@ -1,0 +1,4 @@
+# BGL 的 AI 学习 —— 运行依赖（核心业务层只用 Python 标准库，这里只有 UI 与图表依赖）
+streamlit>=1.40,<2
+pandas>=2.0
+altair>=5.0
